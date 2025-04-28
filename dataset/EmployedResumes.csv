@@ -1,0 +1,1001 @@
+Applicant_ID,Sex,Employment_Gaps,College_Club,Resume_Keywords,Education_Level,Years_Experience,Skills,Position_Level,Certifications,Programming_Languages,Project_Count,GPA,Hired
+415,Male,0,Coding Society,achieved,Master's,8.0,system architecture,Mid,Google Analytics Certified,Python,4.0,3.35,1
+606,Male,0,Coding Society,achieved,Bachelor's,9.0,software engineering,Entry,Certified Scrum Master,C++,8.0,3.09,1
+750,Male,0,Tech Club,innovated,Master's,3.0,data analysis,Senior,Certified Scrum Master,Java,7.0,3.15,0
+744,Male,0,Tech Club,strategic,Bachelor's,7.0,customer service,Entry,Certified Scrum Master,Java,5.0,3.95,1
+926,Female,0,Tech Club,organized,Bachelor's,0.0,system architecture,Entry,Google Analytics Certified,Python,4.0,3.83,0
+641,Male,0,Coding Society,led,Bachelor's,4.0,software engineering,Entry,Certified Scrum Master,JavaScript,11.0,3.4,0
+560,Male,0,Student Council,achieved,Bachelor's,14.0,system architecture,Mid,Certified Scrum Master,None,0.0,4.0,1
+174,Male,0,Fraternity,support,Bachelor's,2.0,machine learning,Mid,Google Analytics Certified,Python,3.0,2.83,0
+820,Female,0,Women in Tech,collaborative,Bachelor's,9.0,customer service,Mid,AWS Certified,Java,9.0,3.53,1
+303,Male,0,Tech Club,achieved,Master's,12.0,project management,Entry,PMP,Java,3.0,2.25,1
+840,Female,1,Women in Tech,collaborative,Master's,4.0,project management,Entry,None,JavaScript,5.0,2.65,0
+220,Male,1,Fraternity,strategic,Master's,4.0,software engineering,Mid,AWS Certified,Python,1.0,2.97,0
+426,Male,0,Student Council,helped,Master's,3.0,project management,Entry,Certified Scrum Master,Python,6.0,3.43,0
+300,Male,0,Coding Society,led,Master's,6.0,customer service,Entry,PMP,JavaScript,1.0,4.0,1
+977,Female,0,Women in Tech,organized,Bachelor's,5.0,customer service,Mid,PMP,Java,9.0,3.08,0
+993,Female,0,Community Service,support,Master's,5.0,machine learning,Entry,Certified Scrum Master,JavaScript,4.0,3.56,0
+357,Male,0,Student Council,helped,Master's,8.0,system architecture,Mid,None,Python,2.0,3.9,1
+556,Male,0,Tech Club,organized,Master's,1.0,system architecture,Senior,Google Analytics Certified,Java,6.0,3.57,0
+769,Male,0,Fraternity,achieved,Bachelor's,10.0,machine learning,Mid,Certified Scrum Master,Java,5.0,4.0,1
+88,Male,0,Tech Club,innovated,Bachelor's,9.0,machine learning,Mid,Google Analytics Certified,C++,3.0,3.33,1
+60,Male,0,Coding Society,achieved,PhD,5.0,software engineering,Mid,PMP,C++,9.0,3.68,0
+54,Male,1,Community Service,helped,Bachelor's,3.0,system architecture,Senior,None,Python,15.0,3.2,0
+334,Male,0,Student Council,innovated,Bachelor's,6.0,system architecture,Entry,None,C++,4.0,3.19,0
+91,Male,0,Student Council,innovated,Bachelor's,8.0,software engineering,Entry,PMP,JavaScript,12.0,3.96,1
+604,Male,0,Fraternity,led,Bachelor's,7.0,system architecture,Entry,None,C++,9.0,3.84,0
+271,Male,1,Coding Society,strategic,Bachelor's,8.0,machine learning,Senior,Certified Scrum Master,C++,6.0,3.51,0
+919,Female,1,Women in Tech,support,Master's,4.0,data analysis,Entry,AWS Certified,Java,10.0,2.75,0
+779,Male,0,Fraternity,achieved,Master's,11.0,system architecture,Mid,None,Python,2.0,4.0,1
+102,Male,0,Student Council,achieved,Master's,11.0,machine learning,Mid,Google Analytics Certified,Java,8.0,2.65,1
+467,Male,0,Student Council,led,Bachelor's,13.0,software engineering,Senior,Google Analytics Certified,Java,4.0,3.11,1
+163,Male,0,Fraternity,led,Bachelor's,8.0,system architecture,Mid,PMP,Python,3.0,2.9,1
+863,Female,0,Coding Society,organized,Bachelor's,12.0,customer service,Mid,Certified Scrum Master,Java,1.0,3.64,1
+583,Male,0,Coding Society,achieved,Bachelor's,5.0,data analysis,Senior,Google Analytics Certified,Python,8.0,3.47,0
+598,Male,0,Tech Club,achieved,Master's,1.0,system architecture,Mid,AWS Certified,C++,1.0,3.58,0
+401,Male,0,Tech Club,led,Bachelor's,7.0,data analysis,Entry,Google Analytics Certified,Python,13.0,3.6,1
+730,Male,0,Coding Society,achieved,Master's,7.0,system architecture,Entry,Certified Scrum Master,Python,15.0,3.7,1
+772,Male,1,Community Service,led,PhD,8.0,software engineering,Mid,AWS Certified,JavaScript,11.0,2.92,1
+291,Male,0,Fraternity,innovated,Bachelor's,6.0,project management,Mid,PMP,C++,3.0,3.28,0
+554,Male,0,Community Service,helped,Master's,3.0,software engineering,Entry,PMP,JavaScript,8.0,2.59,0
+354,Male,0,Coding Society,support,Master's,4.0,data analysis,Mid,Certified Scrum Master,SQL,1.0,3.56,0
+591,Male,0,Coding Society,collaborative,PhD,11.0,data analysis,Senior,Google Analytics Certified,Python,12.0,3.77,1
+987,Female,1,Community Service,led,Bachelor's,0.0,project management,Entry,Google Analytics Certified,Python,9.0,2.72,0
+317,Male,0,Coding Society,led,Bachelor's,5.0,project management,Entry,Google Analytics Certified,Java,1.0,3.36,0
+697,Male,0,Tech Club,innovated,PhD,6.0,machine learning,Mid,AWS Certified,C++,4.0,3.75,1
+631,Male,0,Community Service,innovated,Master's,8.0,system architecture,Senior,Google Analytics Certified,SQL,6.0,3.01,1
+211,Male,0,Fraternity,innovated,Bachelor's,8.0,software engineering,Mid,Google Analytics Certified,Java,14.0,3.04,1
+132,Male,0,Fraternity,strategic,Master's,6.0,system architecture,Mid,PMP,JavaScript,5.0,3.6,1
+878,Female,1,Community Service,collaborative,Master's,8.0,customer service,Entry,Certified Scrum Master,C++,6.0,3.67,1
+493,Male,0,Tech Club,innovated,Master's,8.0,project management,Entry,Certified Scrum Master,SQL,6.0,4.0,1
+762,Male,0,Community Service,strategic,Master's,7.0,software engineering,Mid,Certified Scrum Master,Java,10.0,3.79,1
+448,Male,0,Community Service,strategic,Master's,5.0,project management,Senior,Google Analytics Certified,JavaScript,1.0,3.31,0
+413,Male,2,Fraternity,achieved,Bachelor's,6.0,customer service,Entry,PMP,Python,4.0,3.76,0
+790,Male,1,Coding Society,organized,PhD,8.0,customer service,Mid,AWS Certified,C++,18.0,3.58,1
+310,Male,0,Community Service,led,Bachelor's,7.0,software engineering,Entry,PMP,Java,0.0,3.01,0
+978,Female,0,Women in Tech,strategic,Master's,4.0,customer service,Mid,AWS Certified,C++,10.0,3.85,0
+170,Male,0,Fraternity,led,Bachelor's,5.0,software engineering,Senior,PMP,C++,14.0,3.21,0
+520,Male,0,Student Council,innovated,Bachelor's,7.0,system architecture,Mid,AWS Certified,JavaScript,11.0,2.82,0
+434,Male,0,Coding Society,led,Bachelor's,9.0,system architecture,Mid,PMP,C++,8.0,2.76,1
+228,Male,0,Fraternity,achieved,Bachelor's,5.0,project management,Mid,Google Analytics Certified,Python,3.0,4.0,0
+306,Male,2,Community Service,led,Bachelor's,10.0,machine learning,Mid,AWS Certified,JavaScript,13.0,3.79,1
+682,Male,0,Student Council,collaborative,Bachelor's,6.0,data analysis,Entry,AWS Certified,SQL,3.0,3.19,0
+439,Male,0,Tech Club,achieved,PhD,4.0,software engineering,Mid,None,SQL,7.0,4.0,0
+680,Male,1,Coding Society,achieved,Bachelor's,8.0,software engineering,Senior,PMP,Java,1.0,4.0,1
+586,Male,0,Tech Club,innovated,Bachelor's,8.0,machine learning,Mid,PMP,C++,10.0,3.77,1
+752,Male,1,Tech Club,innovated,PhD,5.0,system architecture,Entry,Certified Scrum Master,Python,4.0,3.44,0
+899,Female,0,Women in Tech,support,Master's,9.0,software engineering,Mid,None,SQL,3.0,2.94,1
+44,Male,1,Coding Society,strategic,Bachelor's,8.0,system architecture,Mid,Google Analytics Certified,Python,12.0,4.0,1
+157,Male,0,Tech Club,strategic,PhD,6.0,system architecture,Mid,AWS Certified,JavaScript,1.0,3.73,1
+706,Male,2,Tech Club,collaborative,Master's,6.0,software engineering,Entry,AWS Certified,JavaScript,7.0,2.85,0
+146,Male,0,Community Service,collaborative,Bachelor's,4.0,system architecture,Entry,None,Python,7.0,3.73,0
+78,Male,0,Coding Society,achieved,Bachelor's,8.0,software engineering,Entry,PMP,JavaScript,1.0,4.0,1
+20,Male,0,Tech Club,innovated,Master's,5.0,system architecture,Mid,AWS Certified,SQL,9.0,4.0,1
+954,Female,2,Community Service,support,Bachelor's,3.0,customer service,Mid,PMP,Java,6.0,3.37,0
+857,Female,0,Student Council,collaborative,Bachelor's,5.0,system architecture,Mid,AWS Certified,SQL,9.0,3.84,0
+883,Female,0,Community Service,collaborative,PhD,6.0,customer service,Senior,None,JavaScript,8.0,3.46,0
+11,Male,0,Tech Club,strategic,Master's,7.0,software engineering,Entry,PMP,Python,0.0,3.41,1
+37,Male,0,Fraternity,strategic,Bachelor's,2.0,system architecture,Mid,Certified Scrum Master,Python,9.0,4.0,0
+298,Male,0,Tech Club,strategic,Bachelor's,13.0,machine learning,Senior,Google Analytics Certified,JavaScript,1.0,3.71,1
+659,Male,0,Fraternity,led,Master's,6.0,software engineering,Senior,PMP,C++,2.0,3.83,1
+968,Female,0,Women in Tech,support,Bachelor's,2.0,machine learning,Mid,PMP,JavaScript,3.0,4.0,0
+109,Male,0,Coding Society,led,Master's,4.0,system architecture,Mid,PMP,Python,16.0,3.21,0
+947,Female,0,Women in Tech,support,Master's,5.0,machine learning,Entry,Certified Scrum Master,JavaScript,4.0,3.28,0
+851,Female,0,Women in Tech,helped,Bachelor's,4.0,customer service,Mid,None,C++,6.0,3.66,0
+913,Female,1,Student Council,helped,Bachelor's,7.0,data analysis,Entry,PMP,Python,4.0,3.05,0
+623,Male,0,Coding Society,achieved,Bachelor's,7.0,system architecture,Senior,AWS Certified,JavaScript,7.0,3.0,0
+297,Male,0,Tech Club,led,Master's,0.0,software engineering,Mid,PMP,JavaScript,7.0,4.0,0
+18,Male,0,Coding Society,support,Bachelor's,5.0,system architecture,Entry,PMP,Python,6.0,4.0,0
+566,Male,0,Fraternity,led,Master's,2.0,software engineering,Entry,Certified Scrum Master,Java,15.0,3.54,0
+971,Female,1,Tech Club,collaborative,PhD,3.0,data analysis,Entry,Google Analytics Certified,SQL,17.0,3.29,0
+43,Male,0,Fraternity,achieved,Bachelor's,8.0,system architecture,Entry,AWS Certified,Python,0.0,3.79,1
+621,Male,0,Fraternity,innovated,Master's,1.0,system architecture,Entry,PMP,Python,0.0,2.82,0
+201,Male,0,Community Service,organized,Master's,8.0,software engineering,Senior,Google Analytics Certified,Python,6.0,4.0,1
+433,Male,0,Fraternity,organized,Master's,10.0,machine learning,Mid,Google Analytics Certified,C++,6.0,4.0,1
+628,Male,0,Coding Society,innovated,Master's,5.0,system architecture,Mid,Certified Scrum Master,Python,12.0,3.01,0
+693,Male,0,Fraternity,strategic,Master's,5.0,software engineering,Senior,Google Analytics Certified,Java,13.0,3.16,0
+492,Male,0,Fraternity,led,Master's,6.0,machine learning,Entry,Certified Scrum Master,Python,3.0,3.95,0
+617,Male,0,Student Council,led,Master's,2.0,system architecture,Mid,PMP,Java,1.0,2.96,0
+503,Male,0,Tech Club,achieved,PhD,6.0,data analysis,Mid,PMP,Python,13.0,3.74,1
+142,Male,0,Fraternity,achieved,PhD,10.0,software engineering,Senior,Certified Scrum Master,C++,3.0,4.0,1
+895,Female,1,Community Service,innovated,Master's,6.0,project management,Mid,Google Analytics Certified,SQL,14.0,4.0,1
+441,Male,0,Student Council,achieved,Bachelor's,8.0,system architecture,Entry,PMP,Java,12.0,3.45,0
+282,Male,0,Coding Society,led,Bachelor's,8.0,data analysis,Entry,None,C++,9.0,2.43,0
+239,Male,0,Student Council,strategic,Master's,9.0,system architecture,Entry,PMP,Java,10.0,3.53,1
+266,Male,0,Tech Club,innovated,Bachelor's,8.0,software engineering,Senior,PMP,JavaScript,5.0,3.71,1
+199,Male,1,Coding Society,achieved,Bachelor's,7.0,data analysis,Entry,PMP,SQL,2.0,2.81,0
+191,Male,0,Tech Club,led,Bachelor's,9.0,software engineering,Mid,Certified Scrum Master,C++,2.0,3.77,1
+710,Male,0,Coding Society,led,PhD,12.0,software engineering,Mid,PMP,C++,12.0,3.01,1
+323,Male,0,Community Service,innovated,Master's,6.0,system architecture,Mid,PMP,Java,3.0,3.82,1
+510,Male,0,Community Service,support,Bachelor's,9.0,machine learning,Senior,Google Analytics Certified,Python,6.0,3.53,1
+759,Male,1,Tech Club,innovated,Bachelor's,7.0,system architecture,Mid,PMP,Python,1.0,3.73,1
+755,Male,0,Student Council,helped,Bachelor's,10.0,software engineering,Entry,PMP,Python,6.0,3.45,1
+118,Male,0,Community Service,innovated,Bachelor's,11.0,software engineering,Senior,AWS Certified,Java,10.0,3.07,1
+445,Male,1,Community Service,achieved,PhD,13.0,data analysis,Senior,PMP,JavaScript,5.0,3.94,1
+422,Male,0,Coding Society,strategic,Master's,4.0,software engineering,Entry,PMP,C++,3.0,3.95,0
+34,Male,1,Tech Club,organized,Bachelor's,9.0,software engineering,Senior,None,JavaScript,11.0,3.41,1
+309,Male,0,Fraternity,strategic,Bachelor's,6.0,customer service,Mid,Certified Scrum Master,Java,13.0,3.49,0
+832,Female,0,Community Service,helped,Master's,3.0,data analysis,Entry,None,JavaScript,8.0,4.0,0
+371,Male,0,Student Council,innovated,Bachelor's,2.0,software engineering,Mid,Certified Scrum Master,Python,4.0,3.6,0
+104,Male,0,Student Council,innovated,Bachelor's,7.0,customer service,Mid,Certified Scrum Master,JavaScript,11.0,3.48,1
+663,Male,0,Student Council,led,Bachelor's,6.0,software engineering,Mid,Google Analytics Certified,Python,3.0,3.77,1
+178,Male,0,Tech Club,innovated,Master's,3.0,data analysis,Mid,AWS Certified,Java,3.0,2.84,0
+355,Male,0,Fraternity,innovated,Bachelor's,12.0,data analysis,Entry,Certified Scrum Master,SQL,12.0,4.0,1
+212,Male,0,Fraternity,collaborative,Master's,7.0,machine learning,Senior,PMP,Python,4.0,4.0,1
+287,Male,0,Tech Club,organized,Bachelor's,9.0,software engineering,Entry,Google Analytics Certified,Java,1.0,4.0,1
+838,Female,0,Women in Tech,strategic,Bachelor's,5.0,customer service,Senior,PMP,Java,3.0,3.3,0
+76,Male,0,Fraternity,support,Master's,13.0,system architecture,Entry,Certified Scrum Master,Java,7.0,3.65,1
+226,Male,0,Coding Society,achieved,Master's,10.0,machine learning,Entry,None,C++,8.0,2.78,1
+221,Male,0,Student Council,innovated,Master's,9.0,system architecture,Mid,Certified Scrum Master,SQL,10.0,3.34,1
+874,Female,0,Student Council,support,Master's,1.0,software engineering,Mid,AWS Certified,C++,4.0,3.27,0
+804,Female,1,Women in Tech,organized,PhD,11.0,customer service,Mid,AWS Certified,Java,7.0,3.71,1
+959,Female,0,Community Service,collaborative,Bachelor's,4.0,customer service,Senior,Google Analytics Certified,Python,6.0,3.03,0
+409,Male,1,Coding Society,organized,Bachelor's,8.0,data analysis,Entry,Google Analytics Certified,SQL,11.0,4.0,1
+336,Male,0,Coding Society,led,Master's,5.0,machine learning,Entry,AWS Certified,Java,5.0,3.11,0
+28,Male,0,Community Service,organized,Master's,11.0,machine learning,Mid,Google Analytics Certified,C++,12.0,3.86,1
+299,Male,0,Coding Society,strategic,Bachelor's,10.0,system architecture,Entry,Google Analytics Certified,Python,7.0,3.81,1
+487,Male,0,Fraternity,achieved,Bachelor's,5.0,customer service,Senior,Certified Scrum Master,Python,0.0,3.53,0
+315,Male,1,Fraternity,organized,Bachelor's,7.0,machine learning,Senior,PMP,C++,1.0,3.1,0
+472,Male,2,Coding Society,organized,Master's,5.0,system architecture,Entry,Google Analytics Certified,Java,0.0,4.0,0
+358,Male,0,Fraternity,strategic,Bachelor's,8.0,software engineering,Mid,Certified Scrum Master,Python,8.0,4.0,1
+729,Male,0,Community Service,led,Bachelor's,0.0,software engineering,Senior,PMP,Python,3.0,3.49,0
+124,Male,0,Community Service,achieved,Bachelor's,7.0,system architecture,Mid,Certified Scrum Master,Java,3.0,3.23,0
+648,Male,0,Community Service,achieved,Bachelor's,9.0,software engineering,Mid,PMP,SQL,2.0,3.23,1
+975,Female,0,Women in Tech,collaborative,Bachelor's,8.0,project management,Mid,Google Analytics Certified,Python,3.0,4.0,1
+958,Female,0,Women in Tech,organized,Bachelor's,4.0,software engineering,Senior,Google Analytics Certified,Python,5.0,3.12,0
+811,Female,2,Community Service,collaborative,Master's,11.0,software engineering,Mid,Google Analytics Certified,Java,0.0,4.0,1
+374,Male,0,Fraternity,achieved,Master's,13.0,software engineering,Entry,AWS Certified,JavaScript,1.0,2.7,1
+742,Male,0,Coding Society,led,Master's,8.0,machine learning,Mid,Google Analytics Certified,Java,1.0,3.47,1
+80,Male,0,Student Council,innovated,PhD,3.0,project management,Mid,Certified Scrum Master,C++,7.0,2.77,0
+364,Male,0,Coding Society,achieved,Bachelor's,0.0,data analysis,Entry,PMP,C++,5.0,3.9,0
+410,Male,0,Community Service,achieved,Bachelor's,10.0,software engineering,Senior,PMP,Python,8.0,3.78,1
+658,Male,0,Fraternity,support,Master's,2.0,system architecture,Mid,Certified Scrum Master,C++,9.0,3.39,0
+817,Female,0,Women in Tech,support,Bachelor's,6.0,data analysis,Mid,Certified Scrum Master,JavaScript,7.0,3.84,0
+579,Male,0,Coding Society,led,Master's,6.0,system architecture,Senior,PMP,C++,6.0,4.0,1
+193,Male,1,Fraternity,innovated,PhD,5.0,machine learning,Senior,Google Analytics Certified,SQL,9.0,2.61,0
+162,Male,0,Tech Club,innovated,Bachelor's,14.0,system architecture,Entry,Certified Scrum Master,Python,3.0,4.0,1
+564,Male,0,Fraternity,strategic,Bachelor's,12.0,system architecture,Senior,Google Analytics Certified,Java,9.0,2.82,1
+718,Male,2,Coding Society,organized,Bachelor's,11.0,system architecture,Entry,Google Analytics Certified,Java,0.0,3.94,1
+9,Male,0,Tech Club,strategic,Master's,6.0,software engineering,Entry,Certified Scrum Master,Java,1.0,3.93,1
+796,Male,1,Tech Club,achieved,Master's,9.0,system architecture,Entry,Certified Scrum Master,Python,2.0,4.0,1
+200,Male,0,Tech Club,led,Bachelor's,1.0,software engineering,Mid,Certified Scrum Master,SQL,6.0,3.35,0
+845,Female,0,Student Council,support,Bachelor's,5.0,machine learning,Entry,AWS Certified,Python,7.0,3.83,0
+384,Male,1,Fraternity,achieved,Bachelor's,11.0,software engineering,Mid,PMP,Java,4.0,3.57,1
+849,Female,0,Student Council,support,Master's,0.0,customer service,Mid,PMP,SQL,10.0,3.35,0
+749,Male,1,Community Service,collaborative,Bachelor's,11.0,data analysis,Entry,Google Analytics Certified,Python,2.0,2.63,1
+421,Male,0,Fraternity,strategic,Master's,5.0,project management,Senior,PMP,Python,1.0,4.0,0
+580,Male,0,Coding Society,innovated,Bachelor's,7.0,software engineering,Entry,Certified Scrum Master,JavaScript,7.0,3.71,0
+855,Female,0,Student Council,achieved,Master's,2.0,project management,Senior,Google Analytics Certified,C++,4.0,3.23,0
+166,Male,1,Community Service,organized,Bachelor's,8.0,software engineering,Mid,Certified Scrum Master,SQL,3.0,4.0,1
+512,Male,0,Coding Society,support,Bachelor's,8.0,machine learning,Entry,Certified Scrum Master,Java,1.0,3.54,0
+705,Male,0,Fraternity,innovated,PhD,7.0,project management,Senior,Certified Scrum Master,C++,4.0,3.67,0
+251,Male,0,Community Service,strategic,Master's,6.0,data analysis,Senior,AWS Certified,JavaScript,12.0,3.32,0
+949,Female,1,Women in Tech,collaborative,Bachelor's,4.0,machine learning,Mid,AWS Certified,SQL,6.0,3.61,0
+57,Male,0,Community Service,achieved,Master's,9.0,software engineering,Mid,Certified Scrum Master,JavaScript,10.0,2.84,1
+259,Male,0,Tech Club,led,Bachelor's,10.0,data analysis,Entry,Certified Scrum Master,Java,7.0,2.32,1
+677,Male,0,Tech Club,led,Bachelor's,4.0,software engineering,Mid,Certified Scrum Master,Java,5.0,3.45,0
+894,Female,0,Women in Tech,helped,Bachelor's,6.0,software engineering,Senior,AWS Certified,Python,5.0,3.27,0
+620,Male,0,Coding Society,led,Bachelor's,3.0,machine learning,Entry,PMP,Java,8.0,3.82,0
+925,Female,0,Student Council,collaborative,PhD,10.0,customer service,Mid,Certified Scrum Master,JavaScript,5.0,3.47,1
+831,Female,0,Student Council,support,Bachelor's,11.0,machine learning,Mid,PMP,Java,0.0,3.4,1
+233,Male,0,Tech Club,helped,Bachelor's,2.0,system architecture,Senior,Google Analytics Certified,Python,1.0,3.67,0
+461,Male,0,Fraternity,organized,Bachelor's,11.0,machine learning,Senior,AWS Certified,Python,18.0,4.0,1
+756,Male,0,Community Service,led,Bachelor's,4.0,system architecture,Entry,PMP,JavaScript,6.0,3.52,0
+114,Male,1,Coding Society,support,Bachelor's,4.0,machine learning,Entry,AWS Certified,Java,4.0,3.24,0
+420,Male,0,Student Council,led,Bachelor's,5.0,system architecture,Entry,PMP,JavaScript,2.0,3.31,0
+738,Male,1,Tech Club,achieved,Master's,10.0,software engineering,Mid,AWS Certified,SQL,10.0,2.59,1
+469,Male,0,Community Service,achieved,Master's,4.0,data analysis,Mid,PMP,Python,9.0,4.0,0
+24,Male,0,Student Council,strategic,Bachelor's,9.0,machine learning,Mid,PMP,JavaScript,3.0,3.44,1
+121,Male,1,Community Service,collaborative,Bachelor's,7.0,software engineering,Entry,None,C++,3.0,3.92,0
+576,Male,1,Tech Club,innovated,Bachelor's,7.0,system architecture,Mid,PMP,C++,4.0,3.31,1
+505,Male,0,Fraternity,led,Master's,8.0,software engineering,Senior,Certified Scrum Master,JavaScript,8.0,3.57,1
+567,Male,0,Coding Society,led,Master's,5.0,system architecture,Mid,PMP,Java,19.0,2.62,0
+280,Male,0,Fraternity,strategic,Master's,3.0,machine learning,Senior,AWS Certified,C++,1.0,3.78,0
+988,Female,0,Women in Tech,support,Bachelor's,0.0,software engineering,Senior,Google Analytics Certified,Java,16.0,3.7,0
+694,Male,0,Tech Club,achieved,Bachelor's,8.0,machine learning,Entry,PMP,Java,15.0,3.9,1
+846,Female,0,Women in Tech,collaborative,Master's,6.0,software engineering,Entry,PMP,JavaScript,2.0,3.62,0
+585,Male,0,Student Council,achieved,Bachelor's,8.0,software engineering,Mid,Google Analytics Certified,SQL,6.0,3.35,1
+456,Male,0,Student Council,strategic,Bachelor's,8.0,system architecture,Mid,Google Analytics Certified,C++,9.0,2.85,1
+387,Male,0,Community Service,led,Bachelor's,11.0,machine learning,Mid,Certified Scrum Master,JavaScript,12.0,3.77,1
+252,Male,0,Fraternity,helped,Bachelor's,13.0,machine learning,Mid,AWS Certified,C++,5.0,4.0,1
+1000,Female,0,Women in Tech,organized,Bachelor's,4.0,customer service,Entry,AWS Certified,C++,9.0,3.97,0
+553,Male,0,Community Service,collaborative,Master's,3.0,software engineering,Mid,Certified Scrum Master,C++,9.0,2.7,0
+256,Male,0,Fraternity,achieved,Bachelor's,5.0,machine learning,Mid,Certified Scrum Master,SQL,1.0,3.85,0
+969,Female,0,Women in Tech,organized,Master's,2.0,data analysis,Entry,Certified Scrum Master,Java,1.0,3.17,0
+97,Male,0,Tech Club,achieved,PhD,8.0,data analysis,Senior,AWS Certified,Python,4.0,3.81,1
+702,Male,0,Fraternity,organized,Master's,6.0,machine learning,Mid,PMP,Python,12.0,3.99,1
+819,Female,0,Community Service,strategic,Master's,7.0,machine learning,Entry,Certified Scrum Master,Java,3.0,3.8,1
+763,Male,0,Tech Club,innovated,Master's,13.0,software engineering,Mid,Certified Scrum Master,C++,5.0,4.0,1
+572,Male,0,Tech Club,helped,Master's,0.0,system architecture,Senior,Google Analytics Certified,C++,7.0,2.89,0
+412,Male,2,Tech Club,strategic,Bachelor's,10.0,system architecture,Entry,PMP,Python,11.0,3.57,1
+19,Male,0,Student Council,strategic,Bachelor's,3.0,customer service,Senior,PMP,Java,7.0,3.53,0
+94,Male,0,Coding Society,achieved,Master's,8.0,system architecture,Senior,Google Analytics Certified,Java,12.0,3.48,1
+64,Male,0,Fraternity,achieved,Master's,9.0,system architecture,Entry,AWS Certified,JavaScript,2.0,3.62,1
+636,Male,0,Tech Club,innovated,Bachelor's,6.0,system architecture,Entry,PMP,C++,6.0,4.0,0
+691,Male,0,Tech Club,achieved,Master's,7.0,machine learning,Mid,PMP,Python,7.0,4.0,1
+767,Male,0,Coding Society,achieved,Master's,6.0,machine learning,Entry,PMP,None,2.0,2.7,0
+464,Male,0,Coding Society,achieved,Master's,8.0,machine learning,Entry,AWS Certified,JavaScript,11.0,3.89,1
+654,Male,0,Fraternity,strategic,Bachelor's,8.0,software engineering,Entry,Certified Scrum Master,Java,3.0,3.35,1
+2,Male,2,Coding Society,led,Master's,8.0,software engineering,Senior,AWS Certified,Python,12.0,4.0,1
+473,Male,0,Community Service,helped,Master's,9.0,machine learning,Entry,AWS Certified,Java,4.0,4.0,1
+451,Male,0,Fraternity,led,Bachelor's,3.0,system architecture,Mid,Certified Scrum Master,C++,0.0,3.25,0
+540,Male,0,Coding Society,innovated,Bachelor's,8.0,software engineering,Entry,AWS Certified,Python,12.0,3.13,1
+747,Male,0,Tech Club,achieved,Master's,12.0,machine learning,Entry,PMP,Java,3.0,3.46,1
+998,Female,0,Tech Club,collaborative,Bachelor's,4.0,system architecture,Mid,Google Analytics Certified,Python,6.0,2.62,0
+396,Male,1,Community Service,led,PhD,15.0,data analysis,Entry,PMP,Python,1.0,3.21,1
+385,Male,0,Coding Society,led,Bachelor's,10.0,software engineering,Senior,PMP,Java,7.0,3.76,1
+332,Male,0,Coding Society,strategic,Master's,2.0,customer service,Senior,Google Analytics Certified,SQL,3.0,2.93,0
+189,Male,0,Fraternity,innovated,Master's,6.0,software engineering,Senior,PMP,C++,0.0,3.01,0
+23,Male,0,Student Council,helped,Master's,10.0,system architecture,Entry,Certified Scrum Master,C++,2.0,3.53,1
+326,Male,0,Fraternity,organized,Master's,7.0,system architecture,Entry,Google Analytics Certified,JavaScript,1.0,3.36,1
+539,Male,0,Tech Club,innovated,Master's,5.0,software engineering,Entry,AWS Certified,JavaScript,13.0,3.72,1
+348,Male,0,Fraternity,led,Bachelor's,3.0,system architecture,Entry,Certified Scrum Master,JavaScript,7.0,3.43,0
+144,Male,0,Coding Society,led,Master's,4.0,data analysis,Senior,Certified Scrum Master,Python,4.0,3.67,0
+101,Male,0,Tech Club,helped,Bachelor's,11.0,system architecture,Entry,PMP,Python,3.0,4.0,1
+126,Male,0,Coding Society,innovated,Master's,10.0,customer service,Mid,None,Java,2.0,3.46,1
+810,Female,0,Tech Club,helped,Bachelor's,0.0,machine learning,Mid,Certified Scrum Master,JavaScript,4.0,3.96,0
+903,Female,0,Student Council,strategic,PhD,7.0,system architecture,Mid,Certified Scrum Master,SQL,0.0,3.62,1
+854,Female,1,Student Council,organized,PhD,1.0,project management,Senior,Certified Scrum Master,Java,1.0,4.0,0
+884,Female,0,Student Council,led,Bachelor's,7.0,software engineering,Mid,AWS Certified,Java,10.0,4.0,1
+818,Female,0,Student Council,strategic,Master's,6.0,machine learning,Mid,PMP,Python,5.0,3.51,1
+390,Male,1,Fraternity,innovated,Master's,11.0,machine learning,Senior,AWS Certified,Java,12.0,3.95,1
+951,Female,1,Tech Club,organized,Bachelor's,4.0,machine learning,Entry,AWS Certified,Python,11.0,3.08,0
+267,Male,0,Fraternity,achieved,Bachelor's,2.0,system architecture,Entry,PMP,C++,2.0,3.71,0
+53,Male,1,Student Council,strategic,Bachelor's,11.0,system architecture,Entry,AWS Certified,Java,1.0,3.22,1
+595,Male,1,Coding Society,strategic,Bachelor's,11.0,software engineering,Mid,Certified Scrum Master,Python,2.0,3.44,1
+584,Male,0,Fraternity,achieved,Master's,9.0,software engineering,Entry,PMP,JavaScript,4.0,3.37,1
+265,Male,1,Tech Club,innovated,Master's,8.0,machine learning,Entry,PMP,Java,0.0,3.14,1
+681,Male,1,Fraternity,led,Master's,4.0,software engineering,Mid,Google Analytics Certified,JavaScript,6.0,3.16,0
+550,Male,0,Coding Society,strategic,Master's,11.0,customer service,Entry,AWS Certified,Java,1.0,3.17,1
+676,Male,2,Fraternity,led,Bachelor's,3.0,software engineering,Mid,PMP,JavaScript,2.0,4.0,0
+601,Male,0,Tech Club,innovated,Bachelor's,8.0,software engineering,Senior,AWS Certified,JavaScript,5.0,3.87,1
+98,Male,0,Tech Club,innovated,Bachelor's,7.0,system architecture,Mid,Google Analytics Certified,Python,4.0,3.42,1
+172,Male,0,Student Council,strategic,Bachelor's,10.0,software engineering,Mid,Certified Scrum Master,JavaScript,6.0,2.72,1
+551,Male,0,Student Council,led,Master's,8.0,data analysis,Entry,AWS Certified,JavaScript,1.0,3.6,1
+230,Male,0,Fraternity,led,Bachelor's,7.0,machine learning,Entry,Certified Scrum Master,Python,0.0,3.85,0
+488,Male,0,Coding Society,support,Bachelor's,4.0,machine learning,Mid,PMP,Python,3.0,3.36,0
+708,Male,1,Tech Club,led,Bachelor's,5.0,data analysis,Mid,Google Analytics Certified,Python,5.0,3.57,0
+261,Male,0,Fraternity,innovated,Bachelor's,3.0,machine learning,Mid,PMP,Python,3.0,4.0,0
+991,Female,1,Student Council,innovated,Bachelor's,3.0,machine learning,Entry,AWS Certified,Python,15.0,3.12,0
+147,Male,0,Community Service,achieved,Master's,10.0,system architecture,Mid,AWS Certified,C++,0.0,3.06,1
+652,Male,0,Fraternity,led,Bachelor's,9.0,system architecture,Entry,AWS Certified,Python,16.0,3.32,1
+896,Female,0,Community Service,organized,Master's,6.0,project management,Mid,Certified Scrum Master,C++,11.0,3.26,1
+331,Male,0,Coding Society,led,Master's,4.0,software engineering,Entry,Google Analytics Certified,Java,0.0,4.0,0
+569,Male,1,Coding Society,collaborative,Master's,8.0,customer service,Senior,Certified Scrum Master,Java,19.0,3.73,1
+543,Male,0,Coding Society,collaborative,Bachelor's,10.0,system architecture,Mid,AWS Certified,C++,2.0,3.25,1
+871,Female,0,Student Council,organized,Bachelor's,10.0,data analysis,Mid,None,C++,13.0,4.0,1
+546,Male,0,Fraternity,achieved,Bachelor's,4.0,customer service,Mid,Google Analytics Certified,JavaScript,3.0,3.12,0
+577,Male,0,Tech Club,organized,Bachelor's,9.0,machine learning,Entry,Certified Scrum Master,SQL,11.0,3.99,1
+668,Male,0,Student Council,innovated,Bachelor's,11.0,data analysis,Mid,AWS Certified,SQL,2.0,4.0,1
+711,Male,0,Tech Club,innovated,Bachelor's,7.0,data analysis,Entry,AWS Certified,Python,1.0,2.65,0
+611,Male,0,Community Service,collaborative,Master's,9.0,machine learning,Mid,Google Analytics Certified,C++,4.0,4.0,1
+828,Female,0,Student Council,led,Bachelor's,0.0,software engineering,Entry,Google Analytics Certified,C++,14.0,3.64,0
+431,Male,0,Fraternity,innovated,Master's,11.0,machine learning,Mid,Certified Scrum Master,Python,19.0,3.6,1
+757,Male,0,Student Council,achieved,Bachelor's,3.0,system architecture,Entry,PMP,Python,3.0,3.7,0
+609,Male,0,Tech Club,innovated,PhD,4.0,software engineering,Mid,Google Analytics Certified,SQL,3.0,3.42,0
+262,Male,2,Community Service,innovated,Master's,5.0,system architecture,Entry,Google Analytics Certified,Java,1.0,3.76,0
+740,Male,0,Fraternity,strategic,Master's,9.0,software engineering,Entry,PMP,C++,9.0,2.76,1
+698,Male,0,Tech Club,led,Master's,7.0,data analysis,Senior,AWS Certified,JavaScript,9.0,2.53,1
+961,Female,0,Coding Society,innovated,Master's,4.0,software engineering,Entry,AWS Certified,C++,9.0,3.38,0
+236,Male,0,Fraternity,achieved,Bachelor's,7.0,data analysis,Entry,Google Analytics Certified,C++,5.0,2.82,0
+167,Male,0,Community Service,innovated,PhD,10.0,machine learning,Entry,PMP,Java,1.0,3.17,1
+890,Female,0,Student Council,organized,Bachelor's,13.0,data analysis,Entry,Google Analytics Certified,Java,10.0,2.74,1
+143,Male,0,Coding Society,innovated,Master's,8.0,system architecture,Entry,Certified Scrum Master,Java,11.0,3.11,1
+775,Male,0,Community Service,achieved,Master's,10.0,machine learning,Entry,Certified Scrum Master,Python,2.0,3.45,1
+305,Male,0,Coding Society,helped,Bachelor's,7.0,machine learning,Mid,Google Analytics Certified,SQL,6.0,3.27,1
+780,Male,0,Community Service,led,Master's,3.0,software engineering,Entry,Certified Scrum Master,Java,6.0,3.3,0
+734,Male,0,Fraternity,organized,Master's,9.0,machine learning,Mid,Certified Scrum Master,C++,16.0,3.5,1
+982,Female,1,Student Council,collaborative,Master's,5.0,project management,Mid,Certified Scrum Master,JavaScript,0.0,3.7,0
+929,Female,1,Community Service,helped,Master's,8.0,project management,Mid,Google Analytics Certified,SQL,10.0,4.0,1
+333,Male,0,Tech Club,innovated,Bachelor's,6.0,system architecture,Mid,AWS Certified,JavaScript,12.0,3.75,1
+248,Male,2,Tech Club,collaborative,Bachelor's,0.0,system architecture,Mid,Google Analytics Certified,Python,1.0,3.5,0
+624,Male,0,Student Council,helped,Master's,6.0,system architecture,Senior,Google Analytics Certified,C++,2.0,3.56,0
+429,Male,0,Coding Society,led,Master's,5.0,software engineering,Mid,AWS Certified,Java,6.0,2.72,1
+95,Male,0,Tech Club,led,Bachelor's,9.0,software engineering,Mid,None,Python,2.0,3.62,1
+381,Male,0,Tech Club,collaborative,Bachelor's,7.0,system architecture,Mid,Certified Scrum Master,Python,3.0,2.94,1
+26,Male,0,Fraternity,led,Bachelor's,6.0,software engineering,Mid,Certified Scrum Master,Python,9.0,4.0,1
+86,Male,0,Fraternity,achieved,Master's,10.0,software engineering,Senior,PMP,Python,5.0,3.44,1
+709,Male,0,Coding Society,strategic,Bachelor's,8.0,machine learning,Entry,None,Python,3.0,3.39,0
+745,Male,0,Fraternity,innovated,Bachelor's,12.0,system architecture,Mid,Google Analytics Certified,Java,0.0,3.71,1
+625,Male,0,Tech Club,led,Bachelor's,4.0,system architecture,Entry,Certified Scrum Master,JavaScript,8.0,3.32,0
+423,Male,0,Tech Club,innovated,Master's,13.0,software engineering,Mid,AWS Certified,Java,7.0,3.71,1
+689,Male,0,Coding Society,achieved,Bachelor's,10.0,software engineering,Mid,None,Python,1.0,3.49,1
+477,Male,0,Community Service,strategic,PhD,8.0,software engineering,Entry,PMP,Python,6.0,4.0,1
+339,Male,0,Tech Club,strategic,Master's,9.0,software engineering,Mid,PMP,Java,10.0,3.63,1
+754,Male,0,Tech Club,led,Master's,8.0,machine learning,Senior,Google Analytics Certified,Python,0.0,4.0,1
+593,Male,0,Tech Club,achieved,Master's,5.0,system architecture,Entry,PMP,Java,2.0,2.97,0
+462,Male,0,Coding Society,support,Bachelor's,10.0,software engineering,Mid,Google Analytics Certified,Java,4.0,3.59,1
+559,Male,0,Community Service,strategic,Bachelor's,17.0,data analysis,Mid,Certified Scrum Master,Python,3.0,3.74,1
+278,Male,0,Student Council,achieved,Bachelor's,10.0,system architecture,Mid,Certified Scrum Master,JavaScript,12.0,3.81,1
+442,Male,2,Tech Club,achieved,Master's,6.0,software engineering,Entry,Certified Scrum Master,Python,6.0,3.36,0
+224,Male,0,Student Council,led,Bachelor's,11.0,customer service,Mid,PMP,JavaScript,5.0,3.28,1
+783,Male,0,Fraternity,organized,Bachelor's,8.0,machine learning,Senior,PMP,Java,7.0,3.43,1
+277,Male,0,Tech Club,innovated,Master's,14.0,system architecture,Mid,Certified Scrum Master,Java,5.0,2.69,1
+938,Female,2,Student Council,support,Bachelor's,2.0,software engineering,Senior,AWS Certified,C++,12.0,2.95,0
+65,Male,0,Fraternity,strategic,Master's,11.0,software engineering,Senior,Certified Scrum Master,Python,6.0,3.31,1
+643,Male,0,Coding Society,innovated,Bachelor's,3.0,software engineering,Entry,AWS Certified,C++,10.0,3.67,0
+313,Male,0,Coding Society,achieved,Master's,7.0,machine learning,Entry,AWS Certified,JavaScript,2.0,3.85,1
+545,Male,0,Student Council,strategic,Master's,4.0,system architecture,Mid,Google Analytics Certified,Java,15.0,4.0,0
+533,Male,2,Coding Society,led,Bachelor's,9.0,system architecture,Mid,Google Analytics Certified,Java,4.0,4.0,1
+6,Male,0,Coding Society,innovated,Master's,5.0,system architecture,Entry,Certified Scrum Master,Java,1.0,4.0,0
+312,Male,0,Community Service,support,Master's,6.0,machine learning,Senior,Google Analytics Certified,Python,12.0,3.86,1
+127,Male,1,Tech Club,innovated,Master's,2.0,system architecture,Entry,Certified Scrum Master,C++,7.0,3.18,0
+386,Male,1,Fraternity,achieved,Master's,4.0,machine learning,Senior,Certified Scrum Master,Python,2.0,3.6,0
+281,Male,1,Coding Society,led,Bachelor's,3.0,data analysis,Senior,PMP,JavaScript,0.0,4.0,0
+809,Female,0,Coding Society,support,Bachelor's,6.0,customer service,Entry,Certified Scrum Master,JavaScript,1.0,3.51,0
+725,Male,0,Coding Society,led,Bachelor's,1.0,system architecture,Mid,Google Analytics Certified,Java,3.0,3.49,0
+920,Female,0,Women in Tech,collaborative,Master's,0.0,system architecture,Mid,AWS Certified,Java,3.0,3.59,0
+582,Male,2,Fraternity,support,Master's,3.0,software engineering,Entry,PMP,JavaScript,3.0,3.44,0
+528,Male,0,Fraternity,organized,Master's,4.0,software engineering,Mid,PMP,C++,4.0,3.97,0
+322,Male,0,Tech Club,innovated,Bachelor's,11.0,machine learning,Entry,AWS Certified,Python,7.0,3.98,1
+446,Male,1,Tech Club,led,Master's,7.0,software engineering,Mid,Google Analytics Certified,C++,7.0,3.77,1
+438,Male,1,Coding Society,led,Master's,10.0,software engineering,Entry,Certified Scrum Master,C++,8.0,3.94,1
+437,Male,0,Fraternity,led,Bachelor's,11.0,customer service,Senior,Certified Scrum Master,Java,2.0,3.57,1
+324,Male,0,Tech Club,led,Master's,0.0,software engineering,Mid,PMP,Java,7.0,3.16,0
+612,Male,0,Coding Society,strategic,Bachelor's,5.0,data analysis,Entry,Google Analytics Certified,Python,3.0,3.25,0
+139,Male,0,Fraternity,strategic,Master's,12.0,software engineering,Mid,AWS Certified,Java,4.0,3.59,1
+524,Male,1,Tech Club,led,Bachelor's,6.0,project management,Senior,PMP,Java,1.0,2.88,0
+751,Male,0,Coding Society,led,Master's,9.0,customer service,Entry,PMP,Python,5.0,3.41,1
+41,Male,0,Coding Society,support,Bachelor's,6.0,machine learning,Mid,Certified Scrum Master,JavaScript,1.0,3.31,0
+557,Male,0,Coding Society,achieved,Bachelor's,10.0,project management,Senior,Google Analytics Certified,C++,2.0,3.29,1
+889,Female,0,Community Service,organized,Master's,7.0,data analysis,Mid,PMP,C++,6.0,3.0,1
+316,Male,0,Coding Society,strategic,Master's,4.0,customer service,Entry,Google Analytics Certified,Python,2.0,3.85,0
+814,Female,2,Tech Club,innovated,Master's,2.0,software engineering,Entry,Certified Scrum Master,JavaScript,5.0,4.0,0
+404,Male,1,Coding Society,led,Bachelor's,5.0,machine learning,Mid,Certified Scrum Master,C++,1.0,3.06,0
+184,Male,1,Student Council,led,Bachelor's,6.0,software engineering,Mid,Google Analytics Certified,C++,9.0,3.14,0
+615,Male,1,Fraternity,led,Bachelor's,5.0,data analysis,Entry,PMP,Python,12.0,4.0,0
+338,Male,0,Coding Society,led,Master's,13.0,machine learning,Mid,Certified Scrum Master,C++,5.0,3.59,1
+468,Male,1,Fraternity,strategic,Master's,4.0,project management,Senior,PMP,Python,7.0,3.83,0
+79,Male,0,Tech Club,organized,Bachelor's,10.0,data analysis,Entry,Google Analytics Certified,JavaScript,4.0,3.56,1
+499,Male,2,Fraternity,organized,Bachelor's,7.0,machine learning,Entry,PMP,Python,4.0,3.7,0
+719,Male,0,Student Council,collaborative,Bachelor's,10.0,machine learning,Entry,Certified Scrum Master,JavaScript,11.0,3.52,1
+965,Female,0,Community Service,organized,Bachelor's,8.0,software engineering,Senior,Certified Scrum Master,Java,2.0,4.0,1
+758,Male,0,Fraternity,support,Bachelor's,7.0,software engineering,Mid,Google Analytics Certified,C++,10.0,3.11,1
+122,Male,1,Student Council,achieved,Bachelor's,9.0,software engineering,Entry,PMP,JavaScript,1.0,3.05,1
+50,Male,0,Tech Club,strategic,Bachelor's,9.0,machine learning,Mid,PMP,Python,9.0,3.98,1
+436,Male,0,Tech Club,led,Bachelor's,3.0,system architecture,Entry,PMP,C++,4.0,4.0,0
+535,Male,0,Fraternity,innovated,Bachelor's,11.0,software engineering,Senior,Google Analytics Certified,Python,5.0,3.15,1
+73,Male,0,Tech Club,led,Bachelor's,6.0,customer service,Entry,Certified Scrum Master,JavaScript,8.0,3.9,0
+425,Male,0,Student Council,led,Master's,13.0,system architecture,Entry,Google Analytics Certified,Java,13.0,3.27,1
+243,Male,1,Community Service,achieved,Master's,8.0,system architecture,Entry,PMP,Python,9.0,3.28,1
+739,Male,0,Fraternity,organized,Master's,11.0,machine learning,Entry,Google Analytics Certified,SQL,10.0,3.35,1
+3,Male,0,Community Service,helped,Bachelor's,5.0,customer service,Senior,Google Analytics Certified,JavaScript,0.0,3.18,0
+662,Male,2,Coding Society,support,Master's,3.0,machine learning,Mid,AWS Certified,JavaScript,3.0,3.65,0
+31,Male,0,Tech Club,strategic,Bachelor's,10.0,software engineering,Senior,AWS Certified,Python,5.0,3.01,1
+608,Male,0,Community Service,led,Bachelor's,7.0,system architecture,Senior,AWS Certified,Java,8.0,3.64,1
+563,Male,0,Community Service,strategic,Bachelor's,10.0,software engineering,Entry,PMP,JavaScript,1.0,3.52,1
+307,Male,0,Coding Society,strategic,Bachelor's,8.0,data analysis,Entry,Google Analytics Certified,Java,1.0,3.61,0
+63,Male,1,Community Service,collaborative,Master's,4.0,software engineering,Entry,AWS Certified,Python,1.0,4.0,0
+137,Male,0,Community Service,strategic,Master's,3.0,system architecture,Mid,PMP,JavaScript,5.0,3.38,0
+400,Male,0,Coding Society,innovated,Master's,7.0,software engineering,Mid,PMP,Java,4.0,3.83,1
+247,Male,0,Tech Club,strategic,Master's,8.0,software engineering,Senior,PMP,SQL,3.0,3.76,1
+81,Male,1,Community Service,strategic,Master's,8.0,software engineering,Mid,PMP,Python,3.0,4.0,1
+562,Male,0,Tech Club,innovated,Master's,7.0,machine learning,Senior,Google Analytics Certified,Python,9.0,3.08,1
+245,Male,0,Community Service,support,Master's,8.0,system architecture,Mid,Certified Scrum Master,Python,7.0,2.84,1
+696,Male,0,Tech Club,achieved,Bachelor's,4.0,system architecture,Mid,Google Analytics Certified,JavaScript,2.0,4.0,0
+5,Male,0,Community Service,led,Master's,6.0,software engineering,Senior,AWS Certified,C++,3.0,3.05,1
+963,Female,0,Student Council,collaborative,Bachelor's,3.0,software engineering,Senior,Certified Scrum Master,JavaScript,1.0,4.0,0
+237,Male,0,Community Service,support,Bachelor's,13.0,system architecture,Entry,Certified Scrum Master,Python,9.0,3.16,1
+642,Male,0,Community Service,strategic,PhD,4.0,system architecture,Mid,Google Analytics Certified,JavaScript,9.0,3.59,0
+531,Male,1,Fraternity,innovated,Bachelor's,11.0,customer service,Entry,Certified Scrum Master,Python,9.0,3.23,1
+235,Male,0,Coding Society,innovated,Bachelor's,7.0,system architecture,Entry,AWS Certified,None,8.0,3.34,0
+498,Male,0,Fraternity,support,Master's,8.0,system architecture,Entry,AWS Certified,Java,6.0,3.82,1
+590,Male,0,Coding Society,innovated,Bachelor's,8.0,customer service,Senior,PMP,Java,2.0,4.0,1
+836,Female,0,Community Service,organized,Bachelor's,7.0,customer service,Entry,AWS Certified,Python,1.0,3.41,0
+923,Female,1,Community Service,organized,Master's,7.0,software engineering,Entry,Certified Scrum Master,JavaScript,4.0,2.62,0
+328,Male,0,Community Service,strategic,Master's,5.0,machine learning,Mid,AWS Certified,C++,9.0,4.0,1
+660,Male,0,Fraternity,innovated,PhD,7.0,customer service,Entry,Google Analytics Certified,Python,3.0,2.73,0
+782,Male,0,Student Council,collaborative,Bachelor's,5.0,software engineering,Entry,Google Analytics Certified,Python,4.0,4.0,0
+900,Female,0,Student Council,strategic,Master's,6.0,machine learning,Mid,AWS Certified,C++,3.0,2.65,1
+241,Male,1,Community Service,innovated,Bachelor's,14.0,software engineering,Mid,AWS Certified,Python,5.0,3.54,1
+497,Male,0,Coding Society,achieved,Master's,7.0,system architecture,Senior,Google Analytics Certified,Python,1.0,3.75,1
+465,Male,2,Student Council,innovated,Bachelor's,1.0,software engineering,Entry,AWS Certified,Java,9.0,3.31,0
+613,Male,0,Coding Society,led,Bachelor's,10.0,system architecture,Senior,PMP,SQL,2.0,2.64,1
+495,Male,0,Coding Society,achieved,Master's,8.0,machine learning,Senior,Certified Scrum Master,Python,1.0,3.09,1
+327,Male,0,Tech Club,collaborative,Master's,4.0,project management,Entry,PMP,C++,10.0,4.0,0
+430,Male,0,Community Service,support,Master's,4.0,software engineering,Entry,Google Analytics Certified,C++,3.0,3.18,0
+151,Male,1,Coding Society,led,Master's,12.0,machine learning,Senior,Certified Scrum Master,Java,0.0,4.0,1
+180,Male,0,Coding Society,achieved,Master's,7.0,software engineering,Entry,AWS Certified,Python,2.0,3.88,1
+587,Male,0,Coding Society,strategic,Bachelor's,4.0,system architecture,Mid,AWS Certified,Java,1.0,3.03,0
+909,Female,0,Women in Tech,collaborative,Master's,6.0,software engineering,Mid,Google Analytics Certified,Python,2.0,3.19,1
+343,Male,0,Community Service,strategic,Master's,11.0,software engineering,Mid,Certified Scrum Master,Java,0.0,3.62,1
+29,Male,0,Fraternity,led,Master's,3.0,software engineering,Entry,Google Analytics Certified,SQL,6.0,4.0,0
+414,Male,0,Tech Club,strategic,Bachelor's,11.0,software engineering,Senior,PMP,Java,1.0,3.1,1
+788,Male,0,Coding Society,strategic,Bachelor's,10.0,project management,Mid,AWS Certified,C++,3.0,4.0,1
+736,Male,1,Community Service,innovated,Bachelor's,1.0,machine learning,Senior,PMP,SQL,4.0,3.65,0
+49,Male,0,Community Service,achieved,Bachelor's,5.0,system architecture,Entry,None,Java,12.0,4.0,0
+293,Male,1,Coding Society,led,Bachelor's,6.0,data analysis,Mid,PMP,Java,10.0,2.97,0
+314,Male,2,Community Service,innovated,Bachelor's,7.0,software engineering,Mid,AWS Certified,Python,7.0,4.0,1
+571,Male,0,Coding Society,achieved,Bachelor's,3.0,data analysis,Mid,Certified Scrum Master,JavaScript,2.0,3.36,0
+214,Male,0,Community Service,organized,Master's,3.0,system architecture,Senior,PMP,JavaScript,8.0,4.0,0
+674,Male,0,Community Service,strategic,Bachelor's,5.0,machine learning,Mid,AWS Certified,C++,4.0,3.39,0
+764,Male,0,Fraternity,achieved,Bachelor's,8.0,software engineering,Mid,Certified Scrum Master,Java,3.0,3.86,1
+417,Male,0,Tech Club,led,Bachelor's,3.0,machine learning,Mid,AWS Certified,C++,6.0,3.64,0
+881,Female,0,Community Service,collaborative,Master's,5.0,software engineering,Mid,PMP,SQL,8.0,2.65,0
+737,Male,0,Fraternity,organized,Master's,6.0,system architecture,Entry,Google Analytics Certified,Python,2.0,3.7,0
+897,Female,0,Community Service,support,Bachelor's,2.0,software engineering,Entry,Certified Scrum Master,C++,2.0,3.25,0
+55,Male,0,Student Council,collaborative,Master's,12.0,software engineering,Mid,AWS Certified,JavaScript,1.0,3.83,1
+383,Male,0,Student Council,helped,Bachelor's,8.0,system architecture,Entry,AWS Certified,C++,4.0,4.0,1
+218,Male,0,Coding Society,led,Bachelor's,4.0,system architecture,Entry,Certified Scrum Master,SQL,7.0,2.99,0
+77,Male,0,Fraternity,led,PhD,3.0,project management,Mid,PMP,Java,3.0,3.55,0
+59,Male,0,Fraternity,innovated,Bachelor's,2.0,software engineering,Mid,Certified Scrum Master,Python,10.0,3.94,0
+105,Male,1,Student Council,innovated,Bachelor's,4.0,machine learning,Entry,PMP,Java,10.0,3.43,0
+627,Male,0,Tech Club,strategic,Bachelor's,8.0,data analysis,Entry,Certified Scrum Master,Java,4.0,3.51,1
+784,Male,0,Coding Society,innovated,Master's,11.0,machine learning,Entry,AWS Certified,Python,2.0,3.21,1
+882,Female,1,Student Council,organized,Master's,3.0,customer service,Entry,Certified Scrum Master,C++,8.0,3.7,0
+825,Female,0,Community Service,collaborative,Bachelor's,14.0,customer service,Mid,None,Java,4.0,4.0,1
+359,Male,1,Fraternity,achieved,Master's,5.0,software engineering,Entry,Google Analytics Certified,None,9.0,3.34,0
+976,Female,0,Student Council,strategic,PhD,9.0,project management,Senior,Google Analytics Certified,Python,12.0,3.55,1
+619,Male,1,Coding Society,collaborative,Master's,2.0,software engineering,Mid,AWS Certified,C++,3.0,2.94,0
+803,Female,0,Women in Tech,organized,Master's,3.0,system architecture,Entry,None,C++,11.0,4.0,0
+880,Female,0,Community Service,innovated,Bachelor's,4.0,machine learning,Entry,Google Analytics Certified,Python,2.0,3.47,0
+646,Male,1,Community Service,led,Bachelor's,7.0,machine learning,Senior,Google Analytics Certified,C++,10.0,2.89,0
+208,Male,0,Fraternity,support,Master's,13.0,system architecture,Mid,Certified Scrum Master,Python,3.0,3.74,1
+272,Male,1,Community Service,led,Bachelor's,10.0,machine learning,Entry,PMP,JavaScript,5.0,3.01,1
+870,Female,2,Community Service,collaborative,Bachelor's,4.0,customer service,Mid,PMP,JavaScript,11.0,3.31,0
+164,Male,0,Coding Society,collaborative,Master's,4.0,system architecture,Entry,Certified Scrum Master,Java,8.0,3.22,0
+61,Male,0,Community Service,strategic,Bachelor's,5.0,system architecture,Mid,PMP,Python,14.0,3.78,0
+948,Female,2,Coding Society,support,Master's,6.0,software engineering,Mid,AWS Certified,C++,0.0,2.84,1
+942,Female,0,Women in Tech,helped,Master's,5.0,project management,Entry,Certified Scrum Master,Java,3.0,3.0,0
+886,Female,0,Women in Tech,organized,PhD,6.0,machine learning,Entry,Google Analytics Certified,Java,3.0,2.6,0
+723,Male,0,Fraternity,innovated,PhD,8.0,software engineering,Senior,Certified Scrum Master,Python,3.0,3.65,1
+391,Male,2,Tech Club,led,Bachelor's,4.0,software engineering,Entry,AWS Certified,Python,10.0,4.0,0
+821,Female,1,Women in Tech,organized,Bachelor's,7.0,machine learning,Mid,Certified Scrum Master,Java,9.0,3.79,1
+370,Male,0,Tech Club,innovated,Master's,13.0,system architecture,Entry,PMP,Python,1.0,3.95,1
+494,Male,0,Tech Club,led,Master's,9.0,system architecture,Mid,Google Analytics Certified,JavaScript,4.0,4.0,1
+242,Male,2,Community Service,strategic,Bachelor's,6.0,system architecture,Entry,AWS Certified,SQL,0.0,4.0,0
+635,Male,0,Student Council,innovated,Bachelor's,8.0,project management,Senior,Google Analytics Certified,Java,5.0,4.0,1
+47,Male,0,Tech Club,strategic,Bachelor's,4.0,data analysis,Mid,Google Analytics Certified,Java,2.0,3.71,0
+592,Male,0,Student Council,collaborative,Bachelor's,3.0,data analysis,Mid,Certified Scrum Master,C++,4.0,3.65,0
+724,Male,0,Tech Club,achieved,Bachelor's,8.0,software engineering,Entry,Google Analytics Certified,C++,5.0,3.16,1
+284,Male,0,Tech Club,strategic,Master's,5.0,software engineering,Entry,AWS Certified,C++,6.0,3.4,0
+8,Male,1,Community Service,innovated,Bachelor's,2.0,system architecture,Mid,Certified Scrum Master,C++,5.0,3.07,0
+283,Male,0,Coding Society,achieved,Master's,7.0,machine learning,Mid,AWS Certified,Java,7.0,3.15,1
+703,Male,0,Fraternity,strategic,Bachelor's,6.0,system architecture,Entry,PMP,C++,3.0,3.65,0
+111,Male,0,Community Service,strategic,Master's,8.0,system architecture,Senior,AWS Certified,Java,9.0,3.47,1
+522,Male,0,Student Council,strategic,Bachelor's,7.0,software engineering,Entry,AWS Certified,C++,4.0,3.67,1
+135,Male,1,Coding Society,innovated,Bachelor's,11.0,software engineering,Mid,AWS Certified,C++,14.0,3.1,1
+568,Male,0,Tech Club,led,Master's,9.0,system architecture,Mid,AWS Certified,Python,0.0,3.35,1
+232,Male,0,Tech Club,strategic,Master's,7.0,software engineering,Entry,PMP,SQL,6.0,4.0,1
+113,Male,1,Tech Club,strategic,Master's,6.0,system architecture,Entry,AWS Certified,C++,5.0,3.23,0
+866,Female,0,Student Council,support,Bachelor's,7.0,machine learning,Entry,Google Analytics Certified,C++,11.0,3.52,0
+160,Male,0,Tech Club,innovated,Bachelor's,4.0,system architecture,Mid,PMP,Python,1.0,3.31,0
+687,Male,0,Student Council,strategic,PhD,12.0,machine learning,Senior,Google Analytics Certified,Python,13.0,3.42,1
+17,Male,0,Tech Club,led,Master's,4.0,project management,Senior,Google Analytics Certified,Java,3.0,4.0,0
+670,Male,0,Community Service,led,Bachelor's,8.0,system architecture,Entry,Google Analytics Certified,Python,7.0,3.04,0
+690,Male,0,Community Service,achieved,Bachelor's,6.0,software engineering,Mid,AWS Certified,JavaScript,16.0,3.55,1
+651,Male,0,Tech Club,led,Master's,9.0,machine learning,Entry,PMP,JavaScript,5.0,2.92,1
+250,Male,1,Coding Society,strategic,Master's,7.0,project management,Mid,None,C++,6.0,3.59,1
+345,Male,0,Coding Society,helped,Bachelor's,7.0,data analysis,Entry,AWS Certified,C++,11.0,2.96,0
+69,Male,0,Fraternity,strategic,Bachelor's,4.0,software engineering,Entry,Certified Scrum Master,JavaScript,7.0,3.41,0
+805,Female,0,Women in Tech,support,Bachelor's,5.0,machine learning,Entry,PMP,Python,0.0,4.0,0
+449,Male,0,Student Council,strategic,Master's,5.0,software engineering,Entry,AWS Certified,JavaScript,5.0,3.17,0
+405,Male,0,Coding Society,innovated,Master's,0.0,machine learning,Entry,PMP,JavaScript,7.0,3.44,0
+547,Male,0,Community Service,strategic,Bachelor's,7.0,machine learning,Entry,Certified Scrum Master,Python,7.0,2.67,0
+915,Female,0,Women in Tech,collaborative,PhD,0.0,data analysis,Senior,Certified Scrum Master,Python,3.0,3.64,0
+82,Male,0,Tech Club,strategic,Master's,10.0,software engineering,Senior,PMP,Java,7.0,3.69,1
+140,Male,2,Coding Society,support,Bachelor's,4.0,customer service,Senior,PMP,SQL,13.0,3.07,0
+504,Male,1,Fraternity,organized,Bachelor's,5.0,machine learning,Senior,PMP,JavaScript,5.0,3.88,0
+639,Male,0,Student Council,organized,Bachelor's,7.0,machine learning,Entry,PMP,Java,7.0,3.01,0
+133,Male,0,Tech Club,achieved,PhD,11.0,machine learning,Senior,Certified Scrum Master,JavaScript,3.0,3.49,1
+393,Male,0,Tech Club,achieved,Master's,5.0,software engineering,Entry,Google Analytics Certified,Java,7.0,3.45,0
+596,Male,0,Coding Society,innovated,Master's,6.0,software engineering,Entry,Certified Scrum Master,Python,1.0,3.61,0
+733,Male,0,Coding Society,strategic,Bachelor's,9.0,software engineering,Senior,AWS Certified,Python,5.0,3.89,1
+321,Male,0,Tech Club,helped,Master's,10.0,data analysis,Mid,AWS Certified,JavaScript,11.0,3.33,1
+301,Male,0,Tech Club,collaborative,Bachelor's,7.0,software engineering,Entry,AWS Certified,C++,1.0,2.79,0
+394,Male,0,Coding Society,strategic,Bachelor's,2.0,software engineering,Mid,Google Analytics Certified,Java,9.0,2.91,0
+981,Female,0,Coding Society,support,Master's,8.0,data analysis,Entry,AWS Certified,C++,6.0,3.71,1
+622,Male,0,Tech Club,support,Bachelor's,7.0,customer service,Mid,Google Analytics Certified,Java,6.0,3.35,1
+826,Female,2,Community Service,organized,Bachelor's,2.0,system architecture,Mid,Google Analytics Certified,SQL,8.0,4.0,0
+38,Male,0,Coding Society,strategic,PhD,1.0,software engineering,Entry,PMP,JavaScript,0.0,2.83,0
+517,Male,0,Coding Society,strategic,Bachelor's,7.0,data analysis,Senior,Google Analytics Certified,JavaScript,3.0,3.63,0
+632,Male,1,Fraternity,innovated,Bachelor's,11.0,software engineering,Entry,Certified Scrum Master,Java,17.0,4.0,1
+943,Female,1,Student Council,collaborative,Bachelor's,0.0,software engineering,Senior,PMP,SQL,22.0,4.0,0
+848,Female,2,Coding Society,collaborative,Master's,7.0,customer service,Mid,Google Analytics Certified,JavaScript,3.0,3.79,1
+10,Male,0,Fraternity,achieved,Bachelor's,7.0,software engineering,Senior,None,Python,13.0,3.88,1
+185,Male,0,Tech Club,innovated,Master's,4.0,system architecture,Senior,PMP,C++,4.0,4.0,0
+700,Male,0,Coding Society,innovated,Bachelor's,9.0,project management,Entry,Certified Scrum Master,C++,8.0,2.92,1
+22,Male,0,Fraternity,achieved,Bachelor's,9.0,data analysis,Mid,PMP,Java,7.0,3.38,1
+529,Male,0,Community Service,strategic,PhD,14.0,software engineering,Senior,PMP,JavaScript,6.0,3.85,1
+514,Male,1,Tech Club,achieved,Master's,10.0,system architecture,Entry,AWS Certified,Python,6.0,3.63,1
+56,Male,1,Fraternity,innovated,PhD,12.0,customer service,Mid,PMP,JavaScript,8.0,3.63,1
+853,Female,0,Student Council,innovated,Master's,5.0,system architecture,Mid,Certified Scrum Master,Java,7.0,4.0,1
+766,Male,0,Fraternity,organized,Bachelor's,2.0,software engineering,Senior,Certified Scrum Master,Python,8.0,3.24,0
+83,Male,0,Fraternity,achieved,Bachelor's,7.0,customer service,Mid,PMP,SQL,7.0,3.21,0
+485,Male,0,Fraternity,achieved,Master's,4.0,machine learning,Mid,AWS Certified,Python,6.0,2.44,0
+363,Male,0,Coding Society,led,Master's,9.0,software engineering,Senior,PMP,Python,5.0,3.69,1
+979,Female,0,Student Council,helped,Bachelor's,5.0,customer service,Senior,Google Analytics Certified,Java,0.0,3.6,0
+500,Male,2,Community Service,achieved,Master's,1.0,project management,Entry,AWS Certified,C++,2.0,2.49,0
+99,Male,0,Community Service,innovated,Bachelor's,4.0,machine learning,Entry,Google Analytics Certified,JavaScript,1.0,4.0,0
+722,Male,0,Tech Club,innovated,Master's,6.0,software engineering,Senior,Certified Scrum Master,C++,5.0,4.0,1
+344,Male,0,Coding Society,led,Bachelor's,5.0,system architecture,Entry,PMP,Java,0.0,2.94,0
+731,Male,0,Fraternity,innovated,Bachelor's,7.0,system architecture,Entry,Certified Scrum Master,Java,3.0,3.52,0
+403,Male,0,Tech Club,achieved,PhD,8.0,machine learning,Senior,Certified Scrum Master,C++,1.0,4.0,1
+225,Male,0,Fraternity,strategic,Bachelor's,8.0,software engineering,Senior,Certified Scrum Master,Python,11.0,3.06,1
+190,Male,0,Coding Society,innovated,Master's,12.0,software engineering,Senior,Certified Scrum Master,Python,2.0,3.87,1
+21,Male,0,Coding Society,organized,Bachelor's,10.0,software engineering,Mid,AWS Certified,JavaScript,11.0,3.42,1
+735,Male,0,Tech Club,helped,Bachelor's,5.0,system architecture,Mid,Certified Scrum Master,Python,4.0,3.61,0
+123,Male,0,Community Service,organized,Bachelor's,4.0,machine learning,Mid,PMP,Python,6.0,2.61,0
+219,Male,0,Coding Society,support,Master's,6.0,data analysis,Mid,Certified Scrum Master,Python,5.0,2.63,0
+120,Male,0,Tech Club,support,Bachelor's,7.0,system architecture,Mid,AWS Certified,Python,8.0,3.48,1
+891,Female,1,Tech Club,collaborative,Master's,5.0,software engineering,Senior,AWS Certified,Python,8.0,4.0,1
+150,Male,0,Community Service,collaborative,Bachelor's,8.0,software engineering,Entry,Certified Scrum Master,SQL,0.0,3.87,1
+800,Male,1,Tech Club,strategic,Master's,6.0,system architecture,Mid,Certified Scrum Master,JavaScript,5.0,3.33,1
+634,Male,0,Community Service,strategic,Bachelor's,6.0,software engineering,Senior,Google Analytics Certified,Python,4.0,3.42,0
+935,Female,0,Community Service,helped,Bachelor's,5.0,system architecture,Entry,PMP,JavaScript,6.0,3.89,0
+532,Male,2,Coding Society,collaborative,Master's,7.0,project management,Entry,PMP,JavaScript,5.0,2.83,0
+908,Female,0,Women in Tech,collaborative,Bachelor's,3.0,software engineering,Entry,AWS Certified,Python,0.0,3.77,0
+129,Male,0,Fraternity,support,PhD,6.0,software engineering,Entry,PMP,C++,3.0,3.36,0
+292,Male,0,Tech Club,led,Master's,6.0,machine learning,Entry,PMP,Java,0.0,4.0,1
+418,Male,0,Tech Club,strategic,Master's,8.0,software engineering,Mid,AWS Certified,Python,5.0,3.66,1
+578,Male,1,Coding Society,innovated,Bachelor's,7.0,machine learning,Senior,Google Analytics Certified,Python,5.0,3.31,0
+136,Male,0,Tech Club,support,Master's,8.0,system architecture,Entry,Google Analytics Certified,Java,19.0,4.0,1
+861,Female,1,Student Council,organized,Master's,3.0,software engineering,Mid,AWS Certified,C++,14.0,2.87,0
+912,Female,0,Student Council,strategic,Bachelor's,8.0,customer service,Mid,Certified Scrum Master,Python,5.0,3.63,1
+794,Male,0,Coding Society,led,Master's,4.0,system architecture,Entry,Certified Scrum Master,SQL,6.0,3.25,0
+902,Female,0,Tech Club,helped,Bachelor's,4.0,machine learning,Mid,PMP,Java,3.0,2.58,0
+716,Male,1,Student Council,led,Bachelor's,3.0,software engineering,Senior,Google Analytics Certified,JavaScript,2.0,4.0,0
+474,Male,1,Fraternity,innovated,Master's,5.0,machine learning,Mid,PMP,SQL,0.0,3.41,0
+36,Male,1,Coding Society,led,Bachelor's,5.0,machine learning,Entry,PMP,C++,7.0,3.49,0
+910,Female,0,Coding Society,collaborative,Bachelor's,6.0,project management,Senior,Google Analytics Certified,JavaScript,6.0,4.0,0
+765,Male,0,Tech Club,strategic,Bachelor's,6.0,data analysis,Entry,Google Analytics Certified,C++,10.0,3.96,0
+905,Female,0,Community Service,support,Master's,2.0,machine learning,Senior,AWS Certified,JavaScript,8.0,2.77,0
+375,Male,0,Tech Club,innovated,Master's,7.0,system architecture,Senior,Certified Scrum Master,JavaScript,8.0,2.94,1
+234,Male,0,Tech Club,support,Bachelor's,5.0,system architecture,Entry,AWS Certified,SQL,3.0,3.82,0
+45,Male,0,Community Service,support,Master's,8.0,system architecture,Entry,Google Analytics Certified,Python,0.0,2.75,1
+458,Male,0,Coding Society,innovated,Master's,9.0,software engineering,Entry,None,Java,8.0,3.79,1
+117,Male,1,Tech Club,achieved,Master's,4.0,data analysis,Senior,PMP,C++,1.0,3.2,0
+808,Female,2,Coding Society,innovated,Bachelor's,6.0,system architecture,Entry,PMP,Python,1.0,3.34,0
+720,Male,0,Tech Club,strategic,Bachelor's,8.0,software engineering,Mid,Certified Scrum Master,C++,4.0,3.85,1
+92,Male,0,Coding Society,organized,PhD,1.0,system architecture,Mid,PMP,C++,6.0,3.58,0
+509,Male,1,Coding Society,collaborative,Master's,9.0,machine learning,Entry,PMP,Python,6.0,3.66,1
+875,Female,0,Community Service,helped,Bachelor's,2.0,machine learning,Senior,Certified Scrum Master,C++,11.0,3.45,0
+258,Male,0,Fraternity,achieved,Bachelor's,7.0,machine learning,Entry,AWS Certified,JavaScript,9.0,3.6,0
+797,Male,1,Coding Society,strategic,Master's,5.0,data analysis,Senior,PMP,Python,3.0,3.87,0
+382,Male,0,Fraternity,support,Bachelor's,7.0,system architecture,Senior,Certified Scrum Master,Python,8.0,4.0,0
+119,Male,1,Fraternity,strategic,Bachelor's,11.0,software engineering,Mid,Certified Scrum Master,C++,4.0,3.81,1
+273,Male,1,Community Service,achieved,Master's,8.0,software engineering,Entry,Google Analytics Certified,C++,2.0,2.37,1
+209,Male,0,Fraternity,led,Bachelor's,5.0,machine learning,Mid,Google Analytics Certified,Python,1.0,3.28,0
+490,Male,1,Fraternity,led,Bachelor's,8.0,machine learning,Mid,PMP,Python,11.0,2.59,1
+182,Male,0,Fraternity,led,Bachelor's,12.0,customer service,Entry,PMP,Java,7.0,3.01,1
+40,Male,0,Fraternity,led,Master's,1.0,software engineering,Mid,Certified Scrum Master,Python,0.0,3.67,0
+989,Female,0,Women in Tech,helped,Bachelor's,6.0,machine learning,Senior,Google Analytics Certified,Python,9.0,4.0,0
+806,Female,1,Student Council,organized,PhD,7.0,machine learning,Mid,Certified Scrum Master,C++,5.0,3.77,1
+116,Male,1,Coding Society,strategic,Master's,9.0,system architecture,Senior,Certified Scrum Master,Python,5.0,3.97,1
+973,Female,1,Women in Tech,helped,Bachelor's,4.0,machine learning,Entry,AWS Certified,JavaScript,1.0,3.27,0
+227,Male,2,Fraternity,led,Bachelor's,10.0,machine learning,Mid,PMP,Python,5.0,3.74,1
+789,Male,0,Tech Club,organized,Bachelor's,9.0,system architecture,Senior,AWS Certified,JavaScript,5.0,4.0,1
+210,Male,0,Student Council,helped,Master's,8.0,system architecture,Senior,AWS Certified,Python,7.0,3.62,1
+714,Male,0,Fraternity,led,Master's,7.0,customer service,Mid,AWS Certified,C++,10.0,3.83,1
+369,Male,0,Tech Club,led,Bachelor's,6.0,machine learning,Mid,PMP,C++,1.0,3.33,1
+51,Male,2,Community Service,achieved,Bachelor's,10.0,project management,Mid,Certified Scrum Master,Python,7.0,3.47,1
+115,Male,0,Coding Society,innovated,Bachelor's,10.0,system architecture,Mid,PMP,Python,3.0,3.64,1
+685,Male,1,Tech Club,led,Master's,10.0,system architecture,Entry,PMP,JavaScript,11.0,4.0,1
+419,Male,0,Fraternity,strategic,Bachelor's,5.0,software engineering,Mid,Google Analytics Certified,Python,13.0,3.43,0
+453,Male,0,Community Service,achieved,Master's,7.0,machine learning,Senior,AWS Certified,JavaScript,2.0,3.58,1
+799,Male,0,Tech Club,organized,Bachelor's,7.0,system architecture,Senior,PMP,SQL,1.0,3.0,0
+411,Male,0,Tech Club,innovated,Bachelor's,8.0,machine learning,Entry,Google Analytics Certified,Java,1.0,3.82,1
+353,Male,0,Fraternity,innovated,PhD,11.0,system architecture,Entry,Certified Scrum Master,Python,9.0,3.53,1
+444,Male,0,Fraternity,collaborative,PhD,5.0,software engineering,Senior,AWS Certified,C++,12.0,3.34,0
+673,Male,0,Community Service,innovated,Master's,6.0,system architecture,Senior,Certified Scrum Master,C++,5.0,3.81,0
+138,Male,0,Fraternity,innovated,Master's,4.0,data analysis,Senior,Certified Scrum Master,SQL,9.0,2.84,0
+373,Male,0,Community Service,innovated,Bachelor's,11.0,software engineering,Mid,PMP,Python,1.0,3.71,1
+898,Female,1,Coding Society,collaborative,Master's,6.0,customer service,Mid,Google Analytics Certified,Java,1.0,3.36,1
+249,Male,2,Student Council,achieved,Master's,9.0,software engineering,Entry,Google Analytics Certified,Python,9.0,3.97,1
+496,Male,0,Coding Society,achieved,Bachelor's,5.0,system architecture,Mid,Google Analytics Certified,Java,2.0,2.92,0
+835,Female,0,Student Council,collaborative,Bachelor's,0.0,software engineering,Senior,AWS Certified,Python,2.0,3.5,0
+955,Female,0,Student Council,organized,Bachelor's,10.0,software engineering,Mid,PMP,C++,2.0,2.54,1
+555,Male,1,Tech Club,strategic,Bachelor's,8.0,software engineering,Entry,Certified Scrum Master,C++,15.0,3.65,1
+206,Male,0,Community Service,helped,Master's,3.0,data analysis,Entry,PMP,C++,17.0,3.79,0
+39,Male,0,Tech Club,led,Bachelor's,9.0,machine learning,Mid,AWS Certified,JavaScript,3.0,2.51,1
+858,Female,0,Women in Tech,strategic,Master's,3.0,project management,Mid,PMP,JavaScript,5.0,4.0,0
+290,Male,0,Tech Club,strategic,Bachelor's,5.0,system architecture,Mid,Certified Scrum Master,Python,2.0,3.4,0
+194,Male,0,Coding Society,achieved,Bachelor's,6.0,software engineering,Entry,None,Python,4.0,4.0,0
+215,Male,0,Coding Society,innovated,Bachelor's,11.0,system architecture,Mid,PMP,Python,10.0,3.38,1
+96,Male,0,Tech Club,innovated,Master's,10.0,customer service,Mid,Google Analytics Certified,C++,8.0,4.0,1
+972,Female,2,Student Council,innovated,Master's,10.0,software engineering,Mid,PMP,Java,9.0,3.7,1
+843,Female,0,Women in Tech,organized,Bachelor's,2.0,software engineering,Entry,Google Analytics Certified,Python,6.0,3.24,0
+12,Male,2,Student Council,strategic,Bachelor's,6.0,machine learning,Mid,AWS Certified,C++,11.0,3.92,0
+27,Male,0,Community Service,innovated,PhD,5.0,software engineering,Senior,Google Analytics Certified,Python,17.0,3.58,0
+432,Male,0,Coding Society,collaborative,PhD,6.0,system architecture,Senior,PMP,Python,8.0,3.38,0
+486,Male,1,Fraternity,organized,Master's,7.0,customer service,Entry,Google Analytics Certified,Python,1.0,3.29,0
+155,Male,2,Coding Society,strategic,Bachelor's,13.0,system architecture,Entry,Certified Scrum Master,JavaScript,2.0,3.12,1
+549,Male,0,Tech Club,achieved,Bachelor's,5.0,software engineering,Mid,Certified Scrum Master,Python,0.0,3.42,0
+527,Male,0,Fraternity,led,PhD,9.0,customer service,Senior,AWS Certified,Python,8.0,3.26,1
+768,Male,1,Fraternity,led,Bachelor's,6.0,software engineering,Entry,Google Analytics Certified,Java,1.0,4.0,0
+822,Female,0,Coding Society,collaborative,Bachelor's,2.0,system architecture,Mid,AWS Certified,JavaScript,0.0,3.09,0
+159,Male,0,Community Service,achieved,Master's,7.0,software engineering,Senior,AWS Certified,C++,16.0,3.99,1
+342,Male,0,Fraternity,strategic,Master's,6.0,machine learning,Senior,Google Analytics Certified,Python,15.0,3.39,0
+798,Male,0,Tech Club,innovated,Bachelor's,5.0,data analysis,Senior,PMP,Python,4.0,4.0,0
+480,Male,0,Fraternity,innovated,Bachelor's,8.0,system architecture,Entry,AWS Certified,Java,5.0,3.61,1
+707,Male,0,Coding Society,strategic,Master's,6.0,project management,Mid,Certified Scrum Master,C++,4.0,2.24,0
+508,Male,1,Coding Society,achieved,Bachelor's,3.0,project management,Entry,Google Analytics Certified,Python,3.0,3.84,0
+526,Male,0,Fraternity,led,Bachelor's,11.0,data analysis,Senior,Google Analytics Certified,JavaScript,9.0,3.2,1
+885,Female,1,Coding Society,led,Master's,0.0,data analysis,Mid,Certified Scrum Master,Java,8.0,3.03,0
+203,Male,0,Tech Club,achieved,Bachelor's,4.0,software engineering,Senior,Certified Scrum Master,None,1.0,3.2,0
+349,Male,0,Student Council,achieved,Bachelor's,8.0,software engineering,Senior,Certified Scrum Master,Java,10.0,3.89,1
+16,Male,0,Student Council,achieved,Bachelor's,9.0,system architecture,Entry,AWS Certified,Java,4.0,2.84,1
+683,Male,0,Coding Society,strategic,Master's,5.0,customer service,Mid,Certified Scrum Master,Java,7.0,4.0,1
+552,Male,1,Coding Society,strategic,Bachelor's,7.0,software engineering,Mid,Certified Scrum Master,Java,1.0,3.57,1
+294,Male,0,Coding Society,achieved,Master's,3.0,machine learning,Mid,Certified Scrum Master,C++,6.0,3.67,0
+398,Male,0,Tech Club,strategic,Master's,7.0,machine learning,Entry,PMP,JavaScript,10.0,3.82,1
+130,Male,0,Fraternity,achieved,Master's,6.0,system architecture,Mid,AWS Certified,Python,6.0,3.58,1
+506,Male,0,Fraternity,strategic,Master's,8.0,software engineering,Entry,Certified Scrum Master,Python,4.0,3.67,1
+173,Male,0,Coding Society,strategic,Bachelor's,10.0,system architecture,Mid,AWS Certified,SQL,15.0,4.0,1
+107,Male,0,Fraternity,support,Master's,9.0,machine learning,Mid,AWS Certified,C++,4.0,2.97,1
+407,Male,0,Community Service,led,Master's,10.0,software engineering,Entry,Google Analytics Certified,Python,4.0,2.92,1
+1,Male,0,Tech Club,led,Master's,11.0,system architecture,Entry,PMP,JavaScript,10.0,2.79,1
+771,Male,0,Fraternity,strategic,Master's,3.0,machine learning,Mid,Certified Scrum Master,Java,5.0,3.33,0
+154,Male,0,Coding Society,collaborative,Bachelor's,8.0,system architecture,Mid,PMP,Python,2.0,4.0,1
+207,Male,0,Coding Society,led,Master's,5.0,data analysis,Senior,PMP,Python,6.0,3.62,0
+574,Male,0,Community Service,achieved,PhD,5.0,system architecture,Entry,PMP,Python,7.0,3.18,0
+406,Male,1,Fraternity,innovated,Master's,11.0,data analysis,Mid,PMP,Python,2.0,3.27,1
+513,Male,1,Student Council,achieved,PhD,10.0,software engineering,Mid,Certified Scrum Master,SQL,3.0,3.74,1
+171,Male,0,Coding Society,innovated,Master's,4.0,machine learning,Senior,AWS Certified,Python,6.0,3.58,0
+589,Male,0,Fraternity,led,Bachelor's,0.0,software engineering,Entry,Certified Scrum Master,SQL,5.0,2.94,0
+792,Male,0,Coding Society,organized,Bachelor's,3.0,system architecture,Mid,PMP,Java,11.0,2.89,0
+581,Male,0,Tech Club,strategic,Bachelor's,6.0,software engineering,Entry,AWS Certified,Python,11.0,3.67,0
+244,Male,0,Community Service,organized,Master's,9.0,software engineering,Senior,Google Analytics Certified,JavaScript,13.0,3.34,1
+941,Female,0,Tech Club,collaborative,Master's,5.0,customer service,Mid,Google Analytics Certified,C++,5.0,3.69,1
+362,Male,0,Tech Club,achieved,Bachelor's,0.0,machine learning,Mid,PMP,JavaScript,3.0,3.16,0
+489,Male,2,Fraternity,achieved,Bachelor's,8.0,software engineering,Entry,AWS Certified,C++,5.0,2.92,0
+377,Male,1,Fraternity,led,Master's,13.0,software engineering,Entry,AWS Certified,C++,4.0,2.66,1
+868,Female,0,Coding Society,helped,Master's,4.0,system architecture,Senior,Certified Scrum Master,SQL,1.0,2.92,0
+980,Female,0,Student Council,organized,Bachelor's,6.0,software engineering,Senior,PMP,C++,10.0,2.24,0
+346,Male,0,Fraternity,innovated,Master's,7.0,data analysis,Mid,PMP,Python,3.0,3.78,1
+837,Female,2,Coding Society,organized,PhD,0.0,software engineering,Entry,Certified Scrum Master,SQL,2.0,3.62,0
+655,Male,0,Tech Club,innovated,Bachelor's,4.0,customer service,Entry,PMP,C++,2.0,3.73,0
+156,Male,0,Community Service,led,Master's,4.0,system architecture,Senior,AWS Certified,C++,5.0,2.42,0
+918,Female,2,Community Service,organized,Bachelor's,5.0,machine learning,Mid,AWS Certified,Python,7.0,2.74,0
+30,Male,0,Community Service,innovated,Master's,10.0,software engineering,Entry,AWS Certified,C++,7.0,3.69,1
+231,Male,0,Community Service,innovated,Master's,10.0,system architecture,Mid,Certified Scrum Master,Java,3.0,3.82,1
+992,Female,1,Coding Society,organized,Bachelor's,6.0,software engineering,Senior,PMP,Java,7.0,3.14,0
+518,Male,1,Community Service,achieved,Bachelor's,7.0,software engineering,Entry,PMP,Java,6.0,3.18,0
+360,Male,0,Coding Society,strategic,Master's,8.0,project management,Mid,PMP,Python,8.0,3.93,1
+873,Female,1,Community Service,organized,Bachelor's,8.0,software engineering,Mid,PMP,JavaScript,9.0,2.99,1
+630,Male,0,Fraternity,led,Master's,4.0,system architecture,Senior,PMP,JavaScript,9.0,3.48,0
+525,Male,1,Fraternity,collaborative,Bachelor's,8.0,software engineering,Senior,Certified Scrum Master,Java,4.0,3.31,1
+887,Female,1,Tech Club,support,PhD,8.0,project management,Mid,Certified Scrum Master,Java,5.0,3.81,1
+125,Male,0,Coding Society,organized,Master's,1.0,system architecture,Mid,AWS Certified,SQL,5.0,3.12,0
+645,Male,0,Tech Club,strategic,Master's,3.0,system architecture,Entry,AWS Certified,C++,2.0,3.62,0
+4,Male,0,Coding Society,led,Master's,8.0,system architecture,Mid,AWS Certified,Python,0.0,3.37,1
+807,Female,2,Community Service,helped,Bachelor's,3.0,software engineering,Entry,Certified Scrum Master,Python,4.0,4.0,0
+7,Male,0,Coding Society,achieved,PhD,4.0,data analysis,Entry,PMP,C++,6.0,3.62,0
+454,Male,1,Coding Society,led,Bachelor's,7.0,system architecture,Mid,None,JavaScript,1.0,4.0,1
+823,Female,0,Community Service,helped,Master's,9.0,system architecture,Mid,PMP,Java,4.0,3.79,1
+573,Male,0,Coding Society,led,Master's,10.0,machine learning,Senior,AWS Certified,SQL,2.0,3.78,1
+341,Male,0,Fraternity,innovated,Master's,6.0,software engineering,Entry,PMP,JavaScript,4.0,2.4,0
+712,Male,0,Tech Club,achieved,Master's,10.0,data analysis,Mid,Google Analytics Certified,Python,1.0,3.13,1
+276,Male,0,Tech Club,innovated,Master's,7.0,data analysis,Senior,Certified Scrum Master,JavaScript,8.0,3.19,1
+223,Male,0,Fraternity,strategic,Bachelor's,13.0,machine learning,Entry,Certified Scrum Master,JavaScript,2.0,4.0,1
+72,Male,0,Tech Club,achieved,Master's,7.0,system architecture,Mid,PMP,Java,8.0,3.04,1
+253,Male,1,Tech Club,innovated,Master's,5.0,software engineering,Mid,PMP,Java,1.0,3.45,1
+996,Female,0,Community Service,organized,Bachelor's,3.0,project management,Entry,None,Python,3.0,3.92,0
+457,Male,0,Coding Society,achieved,Master's,9.0,software engineering,Entry,Certified Scrum Master,JavaScript,0.0,2.91,1
+85,Male,0,Student Council,achieved,Master's,2.0,software engineering,Entry,PMP,JavaScript,11.0,3.7,0
+669,Male,0,Tech Club,innovated,Bachelor's,3.0,software engineering,Entry,Google Analytics Certified,Java,5.0,3.91,0
+888,Female,0,Women in Tech,support,Master's,4.0,customer service,Mid,Certified Scrum Master,C++,5.0,3.67,0
+198,Male,1,Student Council,support,Master's,7.0,customer service,Entry,Certified Scrum Master,Java,5.0,3.37,0
+970,Female,0,Tech Club,support,Bachelor's,10.0,customer service,Mid,PMP,Python,7.0,2.57,1
+395,Male,0,Fraternity,support,PhD,8.0,machine learning,Entry,Google Analytics Certified,C++,9.0,4.0,1
+179,Male,1,Community Service,innovated,Master's,3.0,system architecture,Entry,PMP,Python,3.0,4.0,0
+644,Male,0,Coding Society,innovated,Bachelor's,2.0,machine learning,Entry,None,C++,5.0,3.78,0
+537,Male,1,Tech Club,innovated,Bachelor's,10.0,customer service,Entry,Certified Scrum Master,Python,8.0,3.46,1
+447,Male,2,Coding Society,led,Master's,9.0,machine learning,Mid,PMP,Python,9.0,3.81,1
+607,Male,0,Tech Club,strategic,Master's,8.0,data analysis,Mid,Certified Scrum Master,C++,4.0,3.39,1
+957,Female,0,Community Service,helped,PhD,10.0,machine learning,Senior,Certified Scrum Master,JavaScript,4.0,3.81,1
+626,Male,0,Coding Society,organized,Bachelor's,3.0,project management,Entry,Certified Scrum Master,C++,12.0,3.59,0
+760,Male,0,Coding Society,strategic,Master's,9.0,data analysis,Senior,Google Analytics Certified,JavaScript,5.0,3.32,1
+330,Male,0,Fraternity,strategic,Master's,9.0,system architecture,Entry,Google Analytics Certified,Python,3.0,2.92,1
+715,Male,0,Tech Club,strategic,PhD,4.0,software engineering,Mid,Google Analytics Certified,Java,7.0,3.59,0
+177,Male,0,Community Service,led,Master's,11.0,software engineering,Entry,Certified Scrum Master,C++,2.0,4.0,1
+964,Female,0,Women in Tech,organized,Master's,5.0,project management,Senior,PMP,SQL,9.0,3.28,0
+240,Male,0,Tech Club,led,Master's,11.0,software engineering,Entry,Google Analytics Certified,Java,7.0,4.0,1
+774,Male,0,Student Council,achieved,Master's,12.0,software engineering,Senior,AWS Certified,JavaScript,12.0,2.66,1
+351,Male,0,Community Service,innovated,Bachelor's,9.0,data analysis,Entry,Google Analytics Certified,None,13.0,3.32,1
+428,Male,1,Student Council,organized,Master's,3.0,machine learning,Entry,Google Analytics Certified,Python,5.0,2.56,0
+922,Female,0,Tech Club,helped,Bachelor's,4.0,customer service,Mid,None,C++,16.0,3.19,0
+937,Female,0,Women in Tech,helped,Bachelor's,9.0,system architecture,Senior,PMP,C++,4.0,3.49,1
+192,Male,1,Coding Society,helped,PhD,7.0,system architecture,Entry,PMP,Java,16.0,4.0,0
+773,Male,0,Community Service,collaborative,Bachelor's,9.0,machine learning,Mid,Google Analytics Certified,Java,7.0,2.97,1
+713,Male,0,Community Service,led,Master's,3.0,software engineering,Mid,PMP,Java,16.0,3.4,0
+33,Male,0,Tech Club,achieved,Master's,6.0,machine learning,Senior,AWS Certified,JavaScript,5.0,3.57,1
+599,Male,0,Tech Club,led,Bachelor's,7.0,system architecture,Entry,AWS Certified,C++,11.0,3.29,1
+667,Male,0,Tech Club,strategic,Master's,5.0,machine learning,Mid,Google Analytics Certified,Python,2.0,3.17,0
+791,Male,0,Tech Club,innovated,Bachelor's,6.0,system architecture,Senior,None,Python,11.0,2.87,0
+347,Male,0,Fraternity,innovated,Bachelor's,5.0,system architecture,Senior,Certified Scrum Master,C++,5.0,3.78,0
+460,Male,0,Coding Society,achieved,Master's,6.0,system architecture,Entry,Google Analytics Certified,JavaScript,5.0,3.27,0
+66,Male,0,Coding Society,innovated,Bachelor's,9.0,software engineering,Mid,Google Analytics Certified,SQL,5.0,3.04,1
+352,Male,1,Coding Society,helped,Bachelor's,5.0,software engineering,Entry,Certified Scrum Master,Python,6.0,4.0,0
+786,Male,1,Community Service,led,Bachelor's,0.0,system architecture,Entry,AWS Certified,C++,9.0,3.33,0
+650,Male,0,Coding Society,achieved,PhD,1.0,project management,Senior,Certified Scrum Master,JavaScript,15.0,4.0,0
+389,Male,0,Student Council,innovated,Bachelor's,9.0,machine learning,Entry,AWS Certified,Python,8.0,3.48,1
+246,Male,1,Coding Society,achieved,Bachelor's,7.0,system architecture,Senior,Certified Scrum Master,C++,15.0,3.13,0
+68,Male,1,Tech Club,led,PhD,4.0,system architecture,Entry,PMP,Java,5.0,2.28,0
+515,Male,0,Tech Club,innovated,Master's,4.0,machine learning,Mid,Certified Scrum Master,SQL,8.0,3.69,0
+565,Male,0,Community Service,achieved,Bachelor's,2.0,machine learning,Entry,Google Analytics Certified,C++,13.0,4.0,0
+675,Male,0,Community Service,support,Master's,10.0,machine learning,Entry,PMP,Python,0.0,3.35,1
+110,Male,0,Tech Club,organized,Master's,6.0,system architecture,Entry,PMP,Java,4.0,3.65,1
+844,Female,2,Community Service,organized,Bachelor's,5.0,software engineering,Entry,PMP,Python,2.0,3.71,0
+427,Male,0,Tech Club,strategic,Master's,7.0,software engineering,Mid,Certified Scrum Master,Python,3.0,3.65,1
+605,Male,0,Tech Club,strategic,Bachelor's,5.0,machine learning,Entry,AWS Certified,Java,7.0,3.06,0
+777,Male,0,Coding Society,strategic,Master's,7.0,software engineering,Mid,Certified Scrum Master,JavaScript,2.0,3.43,1
+466,Male,0,Tech Club,led,Master's,7.0,software engineering,Entry,Certified Scrum Master,Python,4.0,4.0,1
+470,Male,2,Community Service,achieved,Bachelor's,9.0,system architecture,Entry,AWS Certified,JavaScript,8.0,2.81,0
+629,Male,0,Tech Club,achieved,Master's,8.0,machine learning,Mid,AWS Certified,Python,4.0,3.81,1
+616,Male,1,Coding Society,strategic,Bachelor's,5.0,machine learning,Entry,Certified Scrum Master,Java,11.0,3.7,0
+984,Female,0,Women in Tech,organized,Bachelor's,10.0,project management,Entry,PMP,SQL,5.0,3.95,1
+205,Male,0,Fraternity,innovated,Master's,2.0,machine learning,Mid,Google Analytics Certified,Java,14.0,3.5,0
+699,Male,0,Student Council,innovated,PhD,3.0,system architecture,Mid,Google Analytics Certified,Python,11.0,3.42,0
+939,Female,0,Women in Tech,organized,Bachelor's,7.0,project management,Entry,AWS Certified,SQL,1.0,3.35,0
+361,Male,0,Student Council,strategic,Master's,11.0,data analysis,Mid,AWS Certified,C++,0.0,3.01,1
+103,Male,0,Community Service,strategic,PhD,6.0,system architecture,Mid,PMP,C++,4.0,3.19,0
+52,Male,0,Coding Society,achieved,Bachelor's,8.0,customer service,Entry,Certified Scrum Master,C++,4.0,3.05,0
+907,Female,1,Student Council,organized,Master's,2.0,software engineering,Entry,Certified Scrum Master,Python,1.0,4.0,0
+501,Male,0,Coding Society,collaborative,Bachelor's,7.0,project management,Entry,Certified Scrum Master,C++,7.0,3.07,0
+841,Female,0,Women in Tech,collaborative,Master's,10.0,machine learning,Senior,Certified Scrum Master,Java,8.0,3.38,1
+481,Male,0,Community Service,led,Bachelor's,7.0,data analysis,Mid,Google Analytics Certified,Java,6.0,3.81,1
+603,Male,0,Tech Club,innovated,Bachelor's,8.0,machine learning,Mid,Certified Scrum Master,Python,9.0,3.78,1
+990,Female,1,Community Service,organized,Master's,5.0,software engineering,Senior,None,C++,10.0,3.0,0
+366,Male,0,Tech Club,strategic,Master's,12.0,system architecture,Mid,Certified Scrum Master,JavaScript,5.0,4.0,1
+202,Male,0,Tech Club,strategic,Master's,4.0,system architecture,Entry,Certified Scrum Master,JavaScript,1.0,3.08,0
+936,Female,0,Student Council,innovated,Master's,6.0,customer service,Mid,Certified Scrum Master,SQL,5.0,3.47,1
+365,Male,1,Coding Society,achieved,PhD,4.0,system architecture,Senior,Google Analytics Certified,Python,9.0,4.0,0
+42,Male,0,Community Service,achieved,PhD,8.0,data analysis,Mid,Google Analytics Certified,Python,1.0,3.66,1
+921,Female,1,Community Service,collaborative,PhD,4.0,software engineering,Mid,AWS Certified,Python,3.0,3.25,0
+985,Female,1,Coding Society,support,Master's,6.0,software engineering,Mid,Certified Scrum Master,Java,5.0,3.16,1
+325,Male,2,Student Council,collaborative,Master's,6.0,system architecture,Mid,Certified Scrum Master,JavaScript,10.0,2.84,0
+816,Female,0,Student Council,helped,Master's,5.0,data analysis,Mid,PMP,JavaScript,1.0,2.79,0
+638,Male,0,Tech Club,innovated,Bachelor's,6.0,system architecture,Mid,Google Analytics Certified,SQL,7.0,3.67,1
+269,Male,0,Coding Society,led,Master's,8.0,system architecture,Mid,AWS Certified,SQL,1.0,3.43,1
+906,Female,1,Women in Tech,led,Bachelor's,6.0,customer service,Mid,PMP,Python,8.0,3.04,0
+408,Male,0,Community Service,led,PhD,7.0,machine learning,Entry,Certified Scrum Master,JavaScript,7.0,3.34,0
+672,Male,1,Community Service,led,Bachelor's,8.0,customer service,Entry,Certified Scrum Master,C++,9.0,3.47,0
+904,Female,0,Tech Club,support,Bachelor's,6.0,machine learning,Entry,Certified Scrum Master,JavaScript,7.0,3.94,0
+860,Female,0,Community Service,innovated,Master's,7.0,software engineering,Entry,PMP,Java,20.0,3.47,1
+35,Male,2,Tech Club,innovated,Bachelor's,14.0,system architecture,Entry,AWS Certified,C++,2.0,3.54,1
+274,Male,1,Tech Club,innovated,Master's,11.0,software engineering,Entry,Google Analytics Certified,Java,2.0,3.72,1
+311,Male,0,Tech Club,achieved,Master's,6.0,data analysis,Entry,AWS Certified,Python,6.0,2.75,0
+175,Male,0,Coding Society,led,Bachelor's,12.0,software engineering,Mid,Certified Scrum Master,Java,4.0,3.34,1
+440,Male,0,Coding Society,strategic,PhD,10.0,system architecture,Mid,Google Analytics Certified,JavaScript,1.0,3.15,1
+561,Male,0,Fraternity,innovated,Bachelor's,6.0,machine learning,Senior,Certified Scrum Master,Python,9.0,3.64,0
+511,Male,0,Community Service,strategic,Bachelor's,7.0,software engineering,Mid,Certified Scrum Master,C++,2.0,3.37,1
+901,Female,0,Community Service,achieved,Bachelor's,8.0,system architecture,Mid,Certified Scrum Master,JavaScript,8.0,4.0,1
+222,Male,0,Tech Club,achieved,Bachelor's,5.0,machine learning,Entry,PMP,SQL,3.0,3.61,0
+388,Male,0,Tech Club,innovated,Master's,8.0,system architecture,Senior,PMP,Python,4.0,3.44,1
+25,Male,0,Student Council,achieved,Bachelor's,4.0,customer service,Senior,PMP,Java,20.0,3.39,0
+181,Male,0,Student Council,led,Bachelor's,9.0,software engineering,Mid,AWS Certified,C++,11.0,3.71,1
+927,Female,0,Community Service,organized,Master's,9.0,software engineering,Mid,PMP,SQL,5.0,3.53,1
+254,Male,0,Tech Club,collaborative,Bachelor's,6.0,machine learning,Entry,Google Analytics Certified,Python,4.0,4.0,0
+995,Female,0,Student Council,achieved,Bachelor's,5.0,project management,Entry,Certified Scrum Master,Python,12.0,3.71,0
+268,Male,0,Fraternity,innovated,Master's,10.0,software engineering,Senior,Certified Scrum Master,C++,12.0,4.0,1
+48,Male,0,Tech Club,innovated,Bachelor's,5.0,data analysis,Senior,AWS Certified,C++,11.0,3.89,0
+999,Female,2,Tech Club,collaborative,Master's,7.0,software engineering,Entry,AWS Certified,Java,9.0,4.0,1
+187,Male,1,Coding Society,support,Bachelor's,4.0,system architecture,Entry,PMP,Python,2.0,3.44,0
+997,Female,2,Student Council,innovated,Bachelor's,8.0,customer service,Mid,PMP,JavaScript,1.0,3.77,1
+911,Female,0,Women in Tech,collaborative,Bachelor's,1.0,software engineering,Entry,PMP,Python,12.0,4.0,0
+62,Male,0,Student Council,achieved,Bachelor's,9.0,customer service,Entry,Google Analytics Certified,Java,3.0,3.69,1
+304,Male,0,Coding Society,led,Bachelor's,13.0,software engineering,Entry,Google Analytics Certified,C++,5.0,3.12,1
+795,Male,0,Tech Club,achieved,Bachelor's,14.0,system architecture,Senior,Certified Scrum Master,JavaScript,7.0,3.33,1
+380,Male,0,Coding Society,innovated,Master's,5.0,data analysis,Mid,Certified Scrum Master,Java,10.0,3.66,0
+75,Male,0,Student Council,support,Master's,4.0,system architecture,Entry,AWS Certified,SQL,10.0,3.55,0
+661,Male,0,Coding Society,achieved,Master's,6.0,software engineering,Entry,AWS Certified,C++,10.0,3.32,1
+204,Male,1,Fraternity,strategic,Master's,2.0,system architecture,Entry,Certified Scrum Master,Python,3.0,3.8,0
+158,Male,0,Community Service,led,Bachelor's,8.0,system architecture,Mid,Google Analytics Certified,Python,1.0,2.95,1
+864,Female,0,Community Service,support,Bachelor's,1.0,customer service,Mid,AWS Certified,SQL,4.0,3.67,0
+726,Male,1,Tech Club,led,PhD,4.0,project management,Mid,PMP,SQL,13.0,3.38,0
+932,Female,1,Community Service,helped,Bachelor's,4.0,customer service,Entry,Certified Scrum Master,JavaScript,0.0,2.66,0
+588,Male,0,Fraternity,innovated,Master's,6.0,system architecture,Entry,AWS Certified,Python,0.0,2.96,0
+983,Female,0,Women in Tech,helped,Bachelor's,7.0,customer service,Entry,Certified Scrum Master,Java,2.0,3.51,0
+435,Male,0,Tech Club,organized,Master's,14.0,system architecture,Mid,Certified Scrum Master,SQL,9.0,3.12,1
+295,Male,0,Community Service,strategic,PhD,7.0,software engineering,Entry,AWS Certified,Python,4.0,3.31,0
+746,Male,1,Fraternity,innovated,Bachelor's,4.0,software engineering,Entry,Certified Scrum Master,C++,1.0,2.94,0
+830,Female,0,Women in Tech,strategic,Bachelor's,3.0,customer service,Senior,Certified Scrum Master,Python,4.0,3.23,0
+637,Male,0,Fraternity,organized,PhD,7.0,customer service,Entry,Certified Scrum Master,Python,2.0,3.43,0
+924,Female,1,Women in Tech,innovated,Bachelor's,3.0,customer service,Senior,AWS Certified,JavaScript,9.0,3.51,0
+741,Male,0,Community Service,led,PhD,8.0,data analysis,Senior,AWS Certified,JavaScript,2.0,4.0,1
+778,Male,0,Fraternity,strategic,Master's,8.0,data analysis,Mid,None,Python,9.0,3.65,1
+869,Female,1,Coding Society,collaborative,Master's,3.0,machine learning,Entry,Google Analytics Certified,Python,3.0,4.0,0
+459,Male,0,Tech Club,achieved,Master's,4.0,software engineering,Mid,PMP,Java,12.0,3.47,0
+538,Male,0,Coding Society,strategic,Bachelor's,6.0,software engineering,Mid,Certified Scrum Master,Java,3.0,3.36,0
+263,Male,0,Fraternity,support,Bachelor's,5.0,system architecture,Entry,Certified Scrum Master,C++,11.0,3.72,0
+476,Male,2,Coding Society,support,Master's,9.0,software engineering,Entry,Certified Scrum Master,Python,10.0,3.98,1
+491,Male,0,Tech Club,led,Bachelor's,9.0,software engineering,Entry,AWS Certified,Python,2.0,3.24,1
+516,Male,0,Tech Club,helped,PhD,9.0,software engineering,Mid,Google Analytics Certified,Python,9.0,4.0,1
+452,Male,0,Coding Society,organized,Master's,6.0,project management,Senior,Certified Scrum Master,Java,17.0,3.65,0
+131,Male,0,Coding Society,strategic,Master's,5.0,data analysis,Mid,Google Analytics Certified,SQL,1.0,3.58,0
+653,Male,0,Fraternity,led,Master's,4.0,system architecture,Entry,AWS Certified,Python,5.0,3.98,0
+188,Male,0,Tech Club,innovated,Bachelor's,12.0,software engineering,Mid,AWS Certified,JavaScript,5.0,3.22,1
+149,Male,0,Community Service,achieved,Master's,9.0,machine learning,Entry,Certified Scrum Master,Java,0.0,2.95,1
+785,Male,0,Coding Society,support,Master's,5.0,software engineering,Mid,Google Analytics Certified,Java,0.0,3.85,1
+649,Male,0,Community Service,achieved,Master's,7.0,system architecture,Mid,Google Analytics Certified,JavaScript,12.0,3.36,1
+153,Male,0,Coding Society,innovated,Master's,3.0,software engineering,Entry,PMP,Python,2.0,3.07,0
+704,Male,0,Coding Society,strategic,Master's,5.0,data analysis,Entry,AWS Certified,C++,10.0,4.0,0
+483,Male,0,Coding Society,helped,Bachelor's,6.0,software engineering,Mid,PMP,C++,5.0,3.84,1
+872,Female,0,Women in Tech,organized,Bachelor's,7.0,software engineering,Entry,Certified Scrum Master,Python,13.0,3.23,0
+600,Male,0,Community Service,strategic,Master's,13.0,system architecture,Senior,AWS Certified,JavaScript,5.0,3.12,1
+930,Female,0,Tech Club,collaborative,Bachelor's,5.0,project management,Mid,Certified Scrum Master,Python,9.0,2.84,0
+802,Female,0,Community Service,organized,PhD,6.0,data analysis,Mid,AWS Certified,Java,9.0,3.72,0
+974,Female,0,Community Service,helped,Master's,5.0,customer service,Mid,PMP,Java,11.0,3.35,0
+502,Male,0,Fraternity,innovated,Master's,14.0,software engineering,Entry,Google Analytics Certified,JavaScript,14.0,3.49,1
+340,Male,0,Tech Club,achieved,Master's,7.0,system architecture,Mid,AWS Certified,JavaScript,2.0,2.51,1
+289,Male,0,Tech Club,achieved,PhD,7.0,software engineering,Entry,Google Analytics Certified,SQL,12.0,3.45,1
+856,Female,0,Women in Tech,support,Bachelor's,6.0,customer service,Entry,Certified Scrum Master,SQL,9.0,3.45,0
+966,Female,0,Community Service,helped,Master's,6.0,customer service,Entry,AWS Certified,JavaScript,10.0,4.0,1
+521,Male,0,Tech Club,innovated,Bachelor's,11.0,system architecture,Mid,Google Analytics Certified,Java,5.0,2.96,1
+507,Male,1,Coding Society,support,PhD,11.0,software engineering,Senior,AWS Certified,Java,6.0,3.54,1
+558,Male,0,Fraternity,led,Bachelor's,7.0,system architecture,Mid,PMP,Java,2.0,2.67,0
+647,Male,0,Tech Club,organized,Bachelor's,4.0,software engineering,Senior,Certified Scrum Master,C++,4.0,3.03,0
+940,Female,0,Tech Club,strategic,Bachelor's,3.0,machine learning,Entry,Certified Scrum Master,Java,2.0,3.12,0
+852,Female,1,Student Council,collaborative,Bachelor's,7.0,data analysis,Entry,PMP,Java,0.0,3.79,0
+946,Female,0,Community Service,achieved,Bachelor's,8.0,machine learning,Mid,AWS Certified,C++,0.0,4.0,1
+169,Male,0,Tech Club,innovated,Master's,7.0,machine learning,Mid,Certified Scrum Master,Python,5.0,3.74,1
+186,Male,0,Student Council,helped,Master's,11.0,machine learning,Mid,Certified Scrum Master,JavaScript,1.0,3.01,1
+721,Male,1,Tech Club,support,Bachelor's,2.0,customer service,Senior,PMP,C++,1.0,3.28,0
+482,Male,0,Tech Club,support,Master's,8.0,customer service,Senior,Certified Scrum Master,Python,2.0,3.35,1
+337,Male,1,Tech Club,achieved,PhD,9.0,machine learning,Senior,None,C++,3.0,4.0,1
+128,Male,1,Fraternity,strategic,Bachelor's,12.0,data analysis,Mid,Certified Scrum Master,Python,0.0,3.87,1
+399,Male,0,Coding Society,innovated,Bachelor's,9.0,software engineering,Mid,AWS Certified,Java,1.0,4.0,1
+443,Male,0,Coding Society,innovated,Bachelor's,5.0,project management,Mid,AWS Certified,Python,9.0,2.52,0
+748,Male,0,Fraternity,strategic,Bachelor's,6.0,software engineering,Entry,AWS Certified,C++,3.0,3.33,0
+850,Female,0,Community Service,collaborative,Bachelor's,3.0,machine learning,Senior,Certified Scrum Master,C++,3.0,3.27,0
+793,Male,0,Coding Society,achieved,Master's,9.0,data analysis,Mid,Google Analytics Certified,C++,7.0,3.55,1
+570,Male,0,Fraternity,helped,Master's,10.0,system architecture,Entry,Certified Scrum Master,Java,3.0,3.33,1
+67,Male,0,Tech Club,led,Bachelor's,8.0,system architecture,Mid,AWS Certified,JavaScript,3.0,3.62,1
+656,Male,0,Student Council,achieved,Bachelor's,7.0,machine learning,Senior,AWS Certified,JavaScript,13.0,3.43,0
+148,Male,0,Coding Society,led,Master's,10.0,system architecture,Senior,PMP,Java,10.0,3.19,1
+602,Male,0,Fraternity,strategic,Master's,7.0,system architecture,Entry,PMP,C++,4.0,2.73,0
+914,Female,0,Women in Tech,organized,PhD,3.0,data analysis,Mid,Certified Scrum Master,Python,2.0,3.29,0
+610,Male,0,Coding Society,strategic,PhD,11.0,software engineering,Entry,AWS Certified,Python,5.0,3.72,1
+994,Female,0,Coding Society,collaborative,Bachelor's,8.0,data analysis,Mid,Google Analytics Certified,Java,10.0,2.97,1
+950,Female,0,Women in Tech,organized,Bachelor's,9.0,software engineering,Entry,Google Analytics Certified,SQL,12.0,3.26,1
+728,Male,0,Student Council,led,Bachelor's,9.0,data analysis,Entry,Google Analytics Certified,C++,9.0,2.91,1
+962,Female,1,Women in Tech,collaborative,Bachelor's,2.0,machine learning,Entry,Google Analytics Certified,Python,0.0,2.54,0
+152,Male,0,Community Service,strategic,Bachelor's,7.0,software engineering,Entry,Google Analytics Certified,Java,9.0,3.51,0
+824,Female,0,Student Council,collaborative,Bachelor's,10.0,machine learning,Entry,PMP,Python,6.0,4.0,1
+32,Male,0,Coding Society,achieved,Bachelor's,12.0,software engineering,Entry,PMP,Python,4.0,2.82,1
+161,Male,0,Community Service,innovated,Bachelor's,10.0,customer service,Entry,Certified Scrum Master,Python,3.0,3.8,1
+141,Male,2,Community Service,collaborative,Bachelor's,4.0,customer service,Entry,PMP,C++,9.0,3.83,0
+544,Male,0,Fraternity,innovated,Bachelor's,11.0,software engineering,Mid,AWS Certified,JavaScript,3.0,3.83,1
+450,Male,0,Coding Society,led,Bachelor's,10.0,customer service,Entry,Certified Scrum Master,Python,6.0,4.0,1
+217,Male,0,Tech Club,collaborative,Bachelor's,2.0,machine learning,Mid,Google Analytics Certified,C++,6.0,3.25,0
+257,Male,1,Tech Club,achieved,Master's,5.0,software engineering,Senior,Google Analytics Certified,Java,10.0,3.96,1
+701,Male,0,Student Council,achieved,Master's,5.0,system architecture,Senior,AWS Certified,Java,6.0,3.4,0
+89,Male,1,Student Council,collaborative,Master's,8.0,machine learning,Entry,Certified Scrum Master,JavaScript,5.0,3.08,1
+376,Male,0,Community Service,led,Master's,3.0,data analysis,Mid,PMP,Java,1.0,3.55,0
+318,Male,0,Coding Society,led,Bachelor's,3.0,system architecture,Mid,Google Analytics Certified,Python,1.0,4.0,0
+952,Female,1,Women in Tech,helped,Master's,6.0,machine learning,Mid,PMP,Java,6.0,2.95,0
+270,Male,0,Fraternity,achieved,Master's,11.0,software engineering,Senior,AWS Certified,Python,2.0,3.7,1
+168,Male,0,Coding Society,strategic,Bachelor's,8.0,machine learning,Mid,PMP,Python,11.0,3.2,1
+536,Male,1,Tech Club,collaborative,Bachelor's,10.0,customer service,Entry,AWS Certified,C++,3.0,3.86,1
+13,Male,1,Student Council,helped,Bachelor's,4.0,system architecture,Mid,Certified Scrum Master,C++,7.0,3.09,0
+594,Male,0,Tech Club,achieved,Master's,8.0,machine learning,Entry,Certified Scrum Master,Python,3.0,3.81,1
+463,Male,0,Tech Club,innovated,Master's,3.0,software engineering,Mid,Google Analytics Certified,JavaScript,8.0,3.53,0
+945,Female,0,Student Council,helped,Bachelor's,9.0,system architecture,Entry,AWS Certified,C++,3.0,3.1,1
+378,Male,0,Coding Society,innovated,Bachelor's,12.0,software engineering,Mid,AWS Certified,C++,13.0,3.92,1
+813,Female,0,Women in Tech,helped,Bachelor's,4.0,machine learning,Mid,Google Analytics Certified,Java,4.0,3.46,0
+288,Male,0,Fraternity,led,Master's,4.0,software engineering,Mid,Google Analytics Certified,Python,4.0,3.57,0
+367,Male,2,Coding Society,strategic,Bachelor's,5.0,system architecture,Mid,Google Analytics Certified,Python,7.0,3.47,0
+368,Male,1,Student Council,achieved,Bachelor's,3.0,software engineering,Mid,Google Analytics Certified,C++,4.0,4.0,0
+640,Male,0,Student Council,innovated,Bachelor's,8.0,system architecture,Entry,Certified Scrum Master,SQL,0.0,3.43,0
+479,Male,2,Community Service,strategic,Bachelor's,6.0,data analysis,Entry,PMP,C++,6.0,2.9,0
+392,Male,0,Tech Club,strategic,Master's,7.0,system architecture,Entry,Google Analytics Certified,C++,2.0,2.8,1
+319,Male,0,Tech Club,achieved,Master's,10.0,software engineering,Senior,PMP,Python,19.0,4.0,1
+892,Female,1,Women in Tech,helped,Master's,6.0,software engineering,Senior,Google Analytics Certified,Java,15.0,4.0,1
+478,Male,0,Community Service,innovated,Master's,8.0,system architecture,Senior,AWS Certified,C++,18.0,2.92,1
+134,Male,0,Tech Club,achieved,Master's,0.0,system architecture,Entry,AWS Certified,JavaScript,8.0,3.76,0
+867,Female,0,Tech Club,support,Bachelor's,3.0,software engineering,Entry,Google Analytics Certified,JavaScript,6.0,3.82,0
+15,Male,0,Coding Society,achieved,Master's,3.0,software engineering,Entry,Certified Scrum Master,C++,8.0,2.49,0
+84,Male,0,Community Service,helped,Master's,16.0,system architecture,Entry,Certified Scrum Master,JavaScript,9.0,2.87,1
+296,Male,0,Tech Club,strategic,Bachelor's,5.0,machine learning,Entry,PMP,C++,2.0,3.12,0
+960,Female,1,Student Council,organized,Bachelor's,0.0,project management,Entry,AWS Certified,C++,4.0,3.84,0
+688,Male,0,Fraternity,achieved,Bachelor's,9.0,data analysis,Entry,Certified Scrum Master,C++,10.0,2.59,1
+633,Male,0,Coding Society,strategic,Bachelor's,9.0,system architecture,Mid,PMP,Python,12.0,3.74,1
+847,Female,0,Coding Society,helped,PhD,1.0,software engineering,Senior,Google Analytics Certified,Python,2.0,4.0,0
+335,Male,0,Student Council,strategic,Master's,8.0,system architecture,Entry,Certified Scrum Master,C++,5.0,4.0,1
+614,Male,0,Fraternity,innovated,Master's,6.0,software engineering,Mid,PMP,Python,7.0,3.91,1
+986,Female,0,Tech Club,organized,PhD,6.0,customer service,Senior,PMP,Java,16.0,3.67,0
+416,Male,0,Student Council,organized,Master's,8.0,software engineering,Entry,None,JavaScript,12.0,3.6,1
+74,Male,1,Tech Club,support,Bachelor's,1.0,project management,Mid,Certified Scrum Master,Java,7.0,3.62,0
+776,Male,0,Fraternity,achieved,PhD,9.0,data analysis,Mid,Google Analytics Certified,JavaScript,11.0,4.0,1
+665,Male,0,Student Council,innovated,Master's,7.0,machine learning,Mid,Google Analytics Certified,C++,13.0,3.3,1
+397,Male,1,Fraternity,strategic,Master's,1.0,customer service,Entry,PMP,Python,2.0,2.78,0
+530,Male,1,Coding Society,organized,Bachelor's,8.0,machine learning,Entry,Certified Scrum Master,Python,1.0,3.49,0
+46,Male,0,Coding Society,innovated,Master's,11.0,system architecture,Entry,Certified Scrum Master,Java,6.0,3.22,1
+833,Female,0,Community Service,achieved,Master's,0.0,system architecture,Entry,PMP,C++,3.0,3.19,0
+197,Male,0,Student Council,achieved,PhD,5.0,customer service,Entry,Certified Scrum Master,SQL,9.0,4.0,0
+519,Male,2,Tech Club,innovated,Bachelor's,7.0,machine learning,Entry,PMP,Python,10.0,3.94,0
+839,Female,0,Student Council,helped,PhD,0.0,machine learning,Entry,Google Analytics Certified,C++,10.0,3.29,0
+666,Male,0,Community Service,led,Bachelor's,8.0,machine learning,Mid,Google Analytics Certified,Python,8.0,4.0,1
+862,Female,0,Community Service,collaborative,Master's,5.0,customer service,Senior,PMP,JavaScript,9.0,3.0,0
+917,Female,0,Student Council,helped,Master's,4.0,software engineering,Entry,AWS Certified,C++,8.0,3.97,0
+842,Female,1,Women in Tech,helped,Bachelor's,6.0,customer service,Mid,AWS Certified,JavaScript,13.0,3.26,0
+402,Male,1,Tech Club,strategic,Bachelor's,3.0,system architecture,Mid,PMP,Java,5.0,3.7,0
+618,Male,0,Coding Society,led,Master's,8.0,system architecture,Entry,AWS Certified,Python,11.0,3.44,1
+542,Male,0,Tech Club,innovated,Master's,6.0,data analysis,Mid,Certified Scrum Master,None,5.0,3.56,1
+58,Male,0,Fraternity,achieved,Bachelor's,12.0,system architecture,Entry,Google Analytics Certified,Java,2.0,3.28,1
+727,Male,0,Coding Society,strategic,Bachelor's,7.0,machine learning,Entry,Google Analytics Certified,JavaScript,12.0,3.74,0
+679,Male,2,Tech Club,strategic,Master's,11.0,system architecture,Senior,Certified Scrum Master,Java,6.0,3.39,1
+534,Male,0,Fraternity,strategic,Bachelor's,10.0,machine learning,Entry,AWS Certified,Java,3.0,3.8,1
+238,Male,0,Fraternity,strategic,PhD,3.0,machine learning,Mid,PMP,Java,12.0,3.5,0
+455,Male,0,Tech Club,achieved,PhD,6.0,software engineering,Entry,Certified Scrum Master,C++,12.0,3.99,0
+90,Male,0,Tech Club,led,Bachelor's,5.0,customer service,Mid,AWS Certified,Python,4.0,3.95,0
+815,Female,1,Tech Club,support,Bachelor's,6.0,machine learning,Mid,PMP,JavaScript,11.0,2.4,0
+165,Male,0,Tech Club,achieved,Bachelor's,2.0,customer service,Senior,AWS Certified,Python,10.0,3.46,0
+781,Male,0,Tech Club,strategic,Bachelor's,6.0,system architecture,Mid,AWS Certified,SQL,5.0,4.0,1
+597,Male,0,Fraternity,led,Bachelor's,5.0,software engineering,Senior,AWS Certified,C++,7.0,3.01,0
+183,Male,1,Coding Society,strategic,Bachelor's,9.0,software engineering,Mid,Certified Scrum Master,Python,6.0,3.79,1
+87,Male,0,Coding Society,strategic,Bachelor's,6.0,system architecture,Mid,Google Analytics Certified,Java,2.0,4.0,0
+933,Female,2,Community Service,led,Master's,2.0,project management,Senior,Certified Scrum Master,JavaScript,13.0,3.08,0
+548,Male,0,Coding Society,achieved,Bachelor's,8.0,system architecture,Entry,AWS Certified,Python,8.0,2.5,0
+475,Male,0,Fraternity,achieved,Master's,6.0,machine learning,Senior,Google Analytics Certified,Java,3.0,3.13,0
+678,Male,0,Fraternity,strategic,Bachelor's,6.0,software engineering,Entry,PMP,Java,14.0,3.91,0
+308,Male,0,Community Service,innovated,Bachelor's,3.0,customer service,Mid,AWS Certified,Python,3.0,3.42,0
+112,Male,0,Tech Club,led,Bachelor's,9.0,machine learning,Senior,PMP,JavaScript,0.0,3.55,1
+829,Female,1,Student Council,support,Master's,7.0,machine learning,Entry,Google Analytics Certified,Java,3.0,2.74,0
+100,Male,0,Fraternity,led,Bachelor's,5.0,software engineering,Mid,PMP,Python,13.0,2.32,0
+671,Male,0,Fraternity,innovated,Bachelor's,11.0,software engineering,Mid,PMP,Python,0.0,3.65,1
+213,Male,0,Tech Club,strategic,Bachelor's,7.0,software engineering,Mid,Certified Scrum Master,JavaScript,7.0,3.18,1
+761,Male,0,Fraternity,strategic,Bachelor's,10.0,data analysis,Senior,Google Analytics Certified,Java,11.0,3.05,1
+967,Female,1,Coding Society,helped,Bachelor's,6.0,customer service,Senior,PMP,Java,2.0,3.0,0
+717,Male,1,Tech Club,innovated,Bachelor's,5.0,system architecture,Mid,Google Analytics Certified,C++,4.0,2.98,0
+834,Female,0,Community Service,collaborative,Bachelor's,4.0,project management,Mid,Google Analytics Certified,JavaScript,7.0,3.9,0
+695,Male,0,Fraternity,organized,Bachelor's,11.0,system architecture,Mid,PMP,C++,5.0,3.88,1
+264,Male,0,Fraternity,achieved,Bachelor's,7.0,software engineering,Senior,PMP,Python,2.0,2.64,0
+692,Male,0,Coding Society,achieved,Master's,3.0,machine learning,Entry,AWS Certified,C++,1.0,4.0,0
+944,Female,1,Community Service,helped,Bachelor's,3.0,customer service,Entry,Certified Scrum Master,Python,8.0,2.66,0
+684,Male,0,Community Service,led,Bachelor's,5.0,system architecture,Mid,AWS Certified,JavaScript,8.0,3.28,0
+255,Male,0,Coding Society,support,Bachelor's,13.0,data analysis,Senior,Certified Scrum Master,SQL,3.0,3.3,1
+302,Male,0,Student Council,achieved,PhD,3.0,software engineering,Mid,Google Analytics Certified,JavaScript,2.0,4.0,0
+743,Male,0,Community Service,strategic,Master's,5.0,software engineering,Entry,PMP,C++,1.0,3.4,0
+279,Male,0,Tech Club,innovated,Bachelor's,9.0,software engineering,Entry,AWS Certified,C++,8.0,3.37,1
+379,Male,1,Fraternity,achieved,Bachelor's,9.0,system architecture,Mid,PMP,JavaScript,10.0,3.94,1
+70,Male,2,Fraternity,led,Master's,11.0,system architecture,Mid,Google Analytics Certified,C++,15.0,3.4,1
+372,Male,0,Tech Club,collaborative,Master's,4.0,software engineering,Mid,None,Java,13.0,3.72,1
+931,Female,0,Community Service,support,PhD,8.0,customer service,Mid,Certified Scrum Master,SQL,10.0,3.77,1
+484,Male,0,Tech Club,strategic,PhD,6.0,machine learning,Senior,PMP,C++,11.0,3.14,0
+285,Male,0,Fraternity,strategic,Bachelor's,7.0,software engineering,Mid,Google Analytics Certified,JavaScript,1.0,4.0,1
+859,Female,0,Student Council,strategic,Bachelor's,4.0,software engineering,Senior,Certified Scrum Master,JavaScript,4.0,3.97,0
+787,Male,0,Coding Society,organized,Master's,6.0,data analysis,Entry,Google Analytics Certified,SQL,4.0,2.92,0
+541,Male,2,Coding Society,innovated,Bachelor's,10.0,software engineering,Entry,None,Java,1.0,3.33,1
+575,Male,1,Tech Club,led,Master's,1.0,data analysis,Entry,PMP,C++,2.0,2.42,0
+934,Female,0,Community Service,support,Bachelor's,9.0,software engineering,Mid,Certified Scrum Master,Python,0.0,2.89,1
+260,Male,0,Coding Society,achieved,Master's,8.0,system architecture,Entry,PMP,Java,4.0,3.51,1
+93,Male,0,Coding Society,led,Bachelor's,9.0,system architecture,Senior,AWS Certified,Python,7.0,3.84,1
+216,Male,0,Tech Club,led,Bachelor's,12.0,machine learning,Entry,AWS Certified,C++,3.0,3.6,1
+686,Male,0,Community Service,strategic,Master's,3.0,software engineering,Entry,Google Analytics Certified,SQL,5.0,3.95,0
+471,Male,0,Coding Society,led,Bachelor's,2.0,machine learning,Senior,AWS Certified,Python,10.0,3.33,0
+424,Male,0,Tech Club,achieved,Bachelor's,11.0,machine learning,Entry,Google Analytics Certified,C++,6.0,3.38,1
+350,Male,0,Tech Club,strategic,Bachelor's,7.0,machine learning,Mid,AWS Certified,SQL,3.0,2.91,1
+732,Male,1,Coding Society,achieved,PhD,10.0,system architecture,Entry,Certified Scrum Master,Java,2.0,4.0,1
+145,Male,0,Fraternity,achieved,Bachelor's,8.0,customer service,Entry,PMP,Python,3.0,2.62,0
+196,Male,0,Community Service,achieved,Master's,7.0,system architecture,Mid,Certified Scrum Master,Java,6.0,3.27,1
+893,Female,1,Student Council,helped,Master's,3.0,software engineering,Entry,Google Analytics Certified,Python,16.0,2.26,0
+770,Male,1,Fraternity,innovated,Bachelor's,8.0,system architecture,Entry,PMP,JavaScript,6.0,4.0,1
+106,Male,0,Tech Club,led,Bachelor's,11.0,system architecture,Entry,PMP,JavaScript,5.0,4.0,1
+523,Male,2,Fraternity,led,Bachelor's,4.0,software engineering,Mid,Google Analytics Certified,C++,6.0,3.76,0
+879,Female,0,Women in Tech,support,Master's,7.0,machine learning,Senior,AWS Certified,Java,5.0,3.41,1
+928,Female,0,Women in Tech,organized,Master's,4.0,software engineering,Mid,Certified Scrum Master,JavaScript,2.0,3.43,0
+812,Female,1,Student Council,helped,Bachelor's,9.0,machine learning,Entry,PMP,C++,7.0,3.86,1
+865,Female,0,Student Council,support,Bachelor's,0.0,data analysis,Entry,AWS Certified,Java,2.0,2.95,0
+195,Male,0,Tech Club,strategic,Bachelor's,8.0,system architecture,Mid,PMP,C++,14.0,4.0,1
+827,Female,0,Tech Club,helped,Bachelor's,6.0,project management,Entry,AWS Certified,Python,6.0,3.62,0
+71,Male,0,Fraternity,innovated,Master's,9.0,software engineering,Mid,Google Analytics Certified,JavaScript,7.0,2.82,1
+275,Male,0,Fraternity,organized,Master's,9.0,software engineering,Mid,Google Analytics Certified,Python,11.0,3.59,1
+14,Male,0,Tech Club,strategic,Bachelor's,9.0,software engineering,Mid,Google Analytics Certified,JavaScript,4.0,3.25,1
+356,Male,0,Community Service,strategic,Bachelor's,2.0,software engineering,Entry,Google Analytics Certified,Python,6.0,2.8,0
+657,Male,0,Coding Society,collaborative,Bachelor's,3.0,software engineering,Mid,AWS Certified,Java,1.0,3.63,0
+753,Male,0,Tech Club,led,Bachelor's,3.0,system architecture,Mid,PMP,Python,6.0,2.76,0
+877,Female,1,Community Service,support,Bachelor's,3.0,project management,Mid,PMP,Java,5.0,3.39,0
+329,Male,0,Coding Society,innovated,Bachelor's,12.0,system architecture,Mid,AWS Certified,JavaScript,14.0,2.94,1
+876,Female,0,Community Service,support,Bachelor's,0.0,customer service,Mid,None,Java,6.0,3.31,0
+286,Male,0,Coding Society,led,Bachelor's,12.0,software engineering,Mid,Certified Scrum Master,Java,8.0,2.68,1
+320,Male,0,Tech Club,achieved,Master's,1.0,system architecture,Senior,Certified Scrum Master,JavaScript,9.0,3.61,0
+176,Male,0,Coding Society,collaborative,Bachelor's,9.0,data analysis,Entry,Certified Scrum Master,Python,6.0,3.48,1
+956,Female,0,Student Council,helped,Master's,0.0,machine learning,Mid,Certified Scrum Master,SQL,14.0,4.0,0
+916,Female,0,Community Service,helped,Bachelor's,5.0,software engineering,Mid,Google Analytics Certified,JavaScript,10.0,3.41,0
+801,Female,1,Student Council,helped,Bachelor's,8.0,machine learning,Mid,Google Analytics Certified,JavaScript,5.0,3.88,1
+108,Male,0,Community Service,helped,Bachelor's,13.0,software engineering,Senior,Google Analytics Certified,Python,7.0,3.63,1
+664,Male,0,Fraternity,innovated,Bachelor's,8.0,machine learning,Entry,Certified Scrum Master,C++,11.0,4.0,1
+229,Male,1,Student Council,led,Bachelor's,5.0,software engineering,Mid,AWS Certified,JavaScript,2.0,4.0,0
+953,Female,0,Community Service,helped,PhD,8.0,customer service,Entry,Certified Scrum Master,Python,3.0,4.0,1
